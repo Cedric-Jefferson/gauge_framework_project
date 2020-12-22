@@ -1,0 +1,23 @@
+//////////////////////////////////////////////////////////////////////////
+/
+/   MOLEX Ltd. Test Spec
+/   developed by Steve Korber
+/   Steve.Korber@molex.com
+/
+/   Hard reset device Concept for Test Automation
+/
+//////////////////////////////////////////////////////////////////////////
+
+//////////////////////////////////////////////////////////////////////////
+/ concept definition
+///
+# Hard reset device ssr
+
+Cycle power using the web relay
+
+* Connect to serial ports
+* Clear "SS1" serial port
+* Hard reset device
+* Clear "SS1" serial port
+* Find "ssr_cfg_discovery" on "SS1" serial port "-1"
+* Wait "30"

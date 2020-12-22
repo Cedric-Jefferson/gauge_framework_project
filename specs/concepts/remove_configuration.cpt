@@ -1,0 +1,22 @@
+//////////////////////////////////////////////////////////////////////////
+/
+/   MOLEX Ltd. Test Spec
+/   developed by Steve Korber
+/   Steve.Korber@molex.com
+/
+/   Remove configuration Concept for Test Automation
+/
+//////////////////////////////////////////////////////////////////////////
+
+//////////////////////////////////////////////////////////////////////////
+/ concept definition
+///
+# Remove configuration
+
+* Config register
+* Config unregister
+* Config lock
+* Config unlock
+* Config mode
+* Config reset
+* Soft reset device

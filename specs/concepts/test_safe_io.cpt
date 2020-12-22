@@ -1,0 +1,25 @@
+//////////////////////////////////////////////////////////////////////////
+/
+/   MOLEX Ltd. Test Spec
+/   developed by Steve Korber
+/   Steve.Korber@molex.com
+/
+/   Test safe IO Concept for Test Automation
+/
+//////////////////////////////////////////////////////////////////////////
+
+//////////////////////////////////////////////////////////////////////////
+/ concept definition
+///
+# Test safe IO <value>
+
+* Change NCS "4"
+* Get NCS loop "2"
+* Get NCS
+* Verify NCS "0" or "16"
+* Get state
+* Read safe IO
+* Write safe IO <value>
+* Wait "0.5"
+* Read safe IO
+* Verify safe output <value>

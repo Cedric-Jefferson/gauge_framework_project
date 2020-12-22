@@ -1,0 +1,124 @@
+### development - used to develop test cases
+dev:
+  ### version select
+  version: master
+  ### product select
+  # product: ssr_demo
+  # product: ssr_demo_gpio
+  # product: fanuc
+  # product: eip_demo
+  # product: hawk
+  # product: osprey_mvp_1
+  product: osprey_mvp_2
+  # product: osprey_mvp_2_qa_io_test
+  # product: opc_demo_windows
+  # product: opc_demo_osprey
+  # product: managed_switch_test
+  ### force flashing
+  # forceFlashing: factory
+  # forceFlashing: upgrade
+  ### protocol test plans
+  fanuc:
+    bakery:
+      - fanuc: {passive: False, tags: cycle-power}
+      - fanuc: {passive: False, tags: message & factory-reset & profinet1}
+      - fanuc: {passive: False, tags: config & profinet1}
+      - fanuc: {passive: False, tags: verify-connect}
+      - fanuc: {passive: False, tags: scan-network}
+      - fanuc: {passive: False, tags: io-verify & profinet1}
+  hawk:
+    bakery:
+      - hawk: {passive: False, tags: cycle-power}
+      - hawk: {passive: False, tags: verify-connect}
+  ssr_demo:
+    bakery:
+      - ssr-demo: {passive: False, tags: cycle-power}
+      - ssr-demo: {passive: False, tags: nab-test}
+  ssr_demo_gpio:
+    bakery:
+      - test: {passive: False, tags: gpio}
+  opc_demo_windows:
+    bakery:
+      - opc-demo: {passive: False, tags: sanity-test}
+  opc_demo_osprey:
+    bakery:
+      - opc-demo: {passive: False, tags: osprey}
+  osprey_mvp_1:
+    bakery:
+      - osprey: {passive: True, tags: cycle-power}
+      - osprey: {passive: True, tags: verify-config}
+    third-party:
+      - logicals_front_end
+  osprey_mvp_2:
+    bakery:
+      - osprey: {passive: True, tags: cycle-power}
+      - osprey: {passive: True, tags: verify-plc}
+  osprey_mvp_2_qa_io_test:
+    bakery:
+      - test: {passive: False, tags: check-relay}
+  managed_switch_test:
+    bakery:
+      - managed-switch: {passive: False, tags: managed-switch}
+  eip_demo:
+    bakery:
+      - eip-demo: {passive: False, tags: cycle-power & conformance}
+      - eip-demo: {passive: False, tags: config & conformance}
+      - eip-demo: {passive: False, tags: conformance-test}
+    conformance:
+      - F_Host_Assembly.txt
+      # - F_Host_Connection_Manager.txt
+      # - F_Host_Encapsulation.txt
+      # - F_Host_Ethernet.txt
+      # - F_Host_File.txt
+      # - F_Host_Full_Conformance_Mode_No_ProfileVerif.txt
+      # - F_Host_Full_Conformance_Mode.txt
+      # - F_Host_Full_Dev_Mode_No_Encapsulation_No_Profile_Verif.txt
+      # - F_Host_Identity.txt
+      # - F_Host_Message_Router.txt
+      # - F_Host_Profile_Verification.txt
+      # - F_Host_QoS.txt
+      # - F_Host_TCPIP.txt
+### production - will be used when automation is run in the product pipeline
+prod:
+  fanuc:
+    bakery:
+      - fanuc: {passive: False, tags: cycle-power}
+      - fanuc: {passive: False, tags: message & factory-reset & profinet1}
+      - fanuc: {passive: False, tags: config & profinet1}
+      - fanuc: {passive: False, tags: verify-connect}
+      - fanuc: {passive: False, tags: scan-network}
+      - fanuc: {passive: False, tags: io-verify & profinet1}
+  ssr:
+    bakery:
+      - ssr-demo: {passive: False, tags: cycle-power}
+      - ssr-demo: {passive: False, tags: nab-test}
+  test:
+    bakery:
+      - test: {passive: False, tags: pass}
+  opc_demo:
+    bakery:
+      - opc-demo: {passive: False, tags: sanity-test}
+  osprey_mvp_1.0:
+    bakery:
+      - osprey: {passive: True, tags: cycle-power}
+      - osprey: {passive: True, tags: verify-config}
+      - osprey: {passive: True, tags: verify-plc}
+  eip:
+    bakery:
+      - eip-demo: {passive: False, tags: cycle-power & conformance}
+      - eip-demo: {passive: False, tags: config & conformance}
+      - eip-demo: {passive: False, tags: conformance-test}
+    conformance:
+      - F_Host_Assembly.txt
+      # - F_Host_Connection_Manager.txt
+      # - F_Host_Encapsulation.txt
+      # - F_Host_Ethernet.txt
+      # - F_Host_File.txt
+      # - F_Host_Full_Conformance_Mode_No_ProfileVerif.txt
+      # - F_Host_Full_Conformance_Mode.txt
+      # - F_Host_Full_Dev_Mode_No_Encapsulation_No_Profile_Verif.txt
+      # - F_Host_Identity.txt
+      # - F_Host_Message_Router.txt
+      # - F_Host_Profile_Verification.txt
+      # - F_Host_QoS.txt
+      # - F_Host_TCPIP.txt

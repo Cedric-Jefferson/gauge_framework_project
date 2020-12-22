@@ -1,0 +1,20 @@
+//////////////////////////////////////////////////////////////////////////
+/
+/   MOLEX Ltd. Test Spec
+/   developed by Steve Korber
+/   Steve.Korber@molex.com
+/
+/   Verify device is connected to PC Concept for Test Automation
+/
+//////////////////////////////////////////////////////////////////////////
+
+//////////////////////////////////////////////////////////////////////////
+/ concept definition
+///
+# Verify device is connected to PC
+
+Read from the serial port on SS1 to confirm 
+
+* Connect to serial ports
+* Verify device is ready from hard reset
+* Wait "10"

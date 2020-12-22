@@ -1,0 +1,293 @@
+21-12-2020 14:59:28.232 [Gauge] [DEBUG] Created gauge_screenshots_dir at c:\Work_stuff\gauge_framework_project\.gauge\screenshots
+21-12-2020 14:59:28.234 [Gauge] [DEBUG] Plugin python is already installed.
+21-12-2020 14:59:28.234 [Gauge] [DEBUG] Plugin html-report is already installed.
+21-12-2020 14:59:28.234 [Gauge] [INFO] Compatible version of plugin flash not found. Installing plugin flash...
+21-12-2020 14:59:28.234 [Gauge] [DEBUG] Gathering metadata for flash
+21-12-2020 14:59:28.236 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/flash?l=python&p=html-report,python,screenshot&o=windows&a=amd64
+21-12-2020 14:59:28.564 [Gauge] [DEBUG] Downloading https://github.com/getgauge/Flash/releases/download/v0.0.2/flash-0.0.2-windows.x86_64.zip
+21-12-2020 14:59:29.894 [Gauge] [DEBUG] Installing plugin flash 0.0.2
+21-12-2020 14:59:29.954 [Gauge] [INFO] Successfully installed plugin 'flash' version 0.0.2
+21-12-2020 14:59:29.954 [Gauge] [INFO] Compatible version of plugin json-report not found. Installing plugin json-report...
+21-12-2020 14:59:29.954 [Gauge] [DEBUG] Gathering metadata for json-report
+21-12-2020 14:59:29.955 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/json-report?l=python&p=flash,html-report,python,screenshot&o=windows&a=amd64
+21-12-2020 14:59:30.048 [Gauge] [DEBUG] Downloading https://github.com/getgauge-contrib/json-report/releases/download/v0.3.5/json-report-0.3.5-windows.x86_64.zip
+21-12-2020 14:59:30.717 [Gauge] [DEBUG] Installing plugin json-report 0.3.5
+21-12-2020 14:59:30.776 [Gauge] [INFO] Successfully installed plugin 'json-report' version 0.3.5
+21-12-2020 14:59:30.777 [Gauge] [DEBUG] Parsing started.
+21-12-2020 14:59:30.777 [Gauge] [DEBUG] Started concepts parsing.
+21-12-2020 14:59:30.784 [Gauge] [DEBUG] 11 concepts parsing completed.
+21-12-2020 14:59:30.784 [Gauge] [DEBUG] Started specifications parsing.
+21-12-2020 14:59:30.785 [Gauge] [DEBUG] 1 specifications parsing completed.
+21-12-2020 14:59:30.785 [Gauge] [DEBUG] Parsing completed.
+21-12-2020 14:59:30.878 [Gauge] [DEBUG] Checking updates...
+21-12-2020 14:59:30.879 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/flash?l=python&p=flash,html-report,json-report,python,screenshot&o=windows&a=amd64
+21-12-2020 14:59:30.979 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=python&p=flash,html-report,json-report,python,screenshot&o=windows&a=amd64
+21-12-2020 14:59:31.003 [python] [ERROR] P
+21-12-2020 14:59:31.007 [python] [ERROR] ython was not found; run without ar
+21-12-2020 14:59:31.007 [python] [ERROR] guments
+21-12-2020 14:59:31.007 [python] [ERROR] to install f
+21-12-2020 14:59:31.007 [python] [ERROR] rom the M
+21-12-2020 14:59:31.007 [python] [ERROR] icrosoft S
+21-12-2020 14:59:31.007 [python] [ERROR] tore, or
+21-12-2020 14:59:31.007 [python] [ERROR] disable th
+21-12-2020 14:59:31.007 [python] [ERROR] is shortc
+21-12-2020 14:59:31.007 [python] [ERROR] ut from S
+21-12-2020 14:59:31.007 [python] [ERROR] ettings
+21-12-2020 14:59:31.007 [python] [ERROR] > Manag
+21-12-2020 14:59:31.007 [python] [ERROR] e App
+21-12-2020 14:59:31.007 [python] [ERROR] Executio
+21-12-2020 14:59:31.007 [python] [ERROR] n Aliases.
+21-12-2020 14:59:31.067 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/json-report?l=python&p=flash,html-report,json-report,python,screenshot&o=windows&a=amd64
+21-12-2020 14:59:31.156 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/python?l=python&p=flash,html-report,json-report,python,screenshot&o=windows&a=amd64
+21-12-2020 14:59:31.198 [python] [ERROR] P
+21-12-2020 14:59:31.199 [python] [ERROR] ython was not found; run without arguments to install from the
+21-12-2020 14:59:31.199 [python] [ERROR] M
+21-12-2020 14:59:31.199 [python] [ERROR] icrosoft S
+21-12-2020 14:59:31.199 [python] [ERROR] tore,
+21-12-2020 14:59:31.199 [python] [ERROR] or disabl
+21-12-2020 14:59:31.199 [python] [ERROR] e this
+21-12-2020 14:59:31.199 [python] [ERROR] shortcut
+21-12-2020 14:59:31.199 [python] [ERROR] from
+21-12-2020 14:59:31.199 [python] [ERROR] Settings
+21-12-2020 14:59:31.199 [python] [ERROR] > Manage
+21-12-2020 14:59:31.199 [python] [ERROR] App Execution Aliases.
+21-12-2020 14:59:31.211 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 14:59:31.211 [Gauge] [CRITICAL] Failed to start gauge API: Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 15:00:00.637 [Gauge] [DEBUG] Created gauge_screenshots_dir at c:\Work_stuff\gauge_framework_project\.gauge\screenshots
+21-12-2020 15:00:00.638 [Gauge] [DEBUG] Plugin flash is already installed.
+21-12-2020 15:00:00.638 [Gauge] [DEBUG] Plugin json-report is already installed.
+21-12-2020 15:00:00.639 [Gauge] [DEBUG] Plugin python is already installed.
+21-12-2020 15:00:00.639 [Gauge] [DEBUG] Plugin html-report is already installed.
+21-12-2020 15:00:00.639 [Gauge] [DEBUG] Parsing started.
+21-12-2020 15:00:00.639 [Gauge] [DEBUG] Started concepts parsing.
+21-12-2020 15:00:00.647 [Gauge] [DEBUG] 11 concepts parsing completed.
+21-12-2020 15:00:00.647 [Gauge] [DEBUG] Started specifications parsing.
+21-12-2020 15:00:00.648 [Gauge] [DEBUG] 1 specifications parsing completed.
+21-12-2020 15:00:00.648 [Gauge] [DEBUG] Parsing completed.
+21-12-2020 15:00:00.864 [python] [ERROR] P
+21-12-2020 15:00:00.864 [python] [ERROR] ython was not found; run without argument
+21-12-2020 15:00:00.864 [python] [ERROR] s
+21-12-2020 15:00:00.864 [python] [ERROR] to install from the Microsoft
+21-12-2020 15:00:00.864 [python] [ERROR] Store
+21-12-2020 15:00:00.864 [python] [ERROR] , or d
+21-12-2020 15:00:00.864 [python] [ERROR] isable
+21-12-2020 15:00:00.864 [python] [ERROR] this
+21-12-2020 15:00:00.864 [python] [ERROR] shortc
+21-12-2020 15:00:00.864 [python] [ERROR] ut fro
+21-12-2020 15:00:00.864 [python] [ERROR] m Setti
+21-12-2020 15:00:00.864 [python] [ERROR] ngs >
+21-12-2020 15:00:00.864 [python] [ERROR] Manage
+21-12-2020 15:00:00.864 [python] [ERROR] App E
+21-12-2020 15:00:00.864 [python] [ERROR] xecuti
+21-12-2020 15:00:00.864 [python] [ERROR] on Ali
+21-12-2020 15:00:00.864 [python] [ERROR] ases.
+21-12-2020 15:00:01.052 [python] [ERROR] P
+21-12-2020 15:00:01.052 [python] [ERROR] ython was not found; run without argum
+21-12-2020 15:00:01.052 [python] [ERROR] ents to i
+21-12-2020 15:00:01.052 [python] [ERROR] nstall
+21-12-2020 15:00:01.052 [python] [ERROR] from t
+21-12-2020 15:00:01.052 [python] [ERROR] he Mic
+21-12-2020 15:00:01.052 [python] [ERROR] rosoft
+21-12-2020 15:00:01.052 [python] [ERROR] Store,
+21-12-2020 15:00:01.052 [python] [ERROR] or di
+21-12-2020 15:00:01.052 [python] [ERROR] sable
+21-12-2020 15:00:01.053 [python] [ERROR] this
+21-12-2020 15:00:01.053 [python] [ERROR] shortc
+21-12-2020 15:00:01.053 [python] [ERROR] ut fro
+21-12-2020 15:00:01.053 [python] [ERROR] m Sett
+21-12-2020 15:00:01.053 [python] [ERROR] i
+21-12-2020 15:00:01.053 [python] [ERROR] ngs > Manage App
+21-12-2020 15:00:01.053 [python] [ERROR] Executi
+21-12-2020 15:00:01.053 [python] [ERROR] on Ali
+21-12-2020 15:00:01.053 [python] [ERROR] ases.
+21-12-2020 15:00:01.066 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 15:00:01.066 [Gauge] [CRITICAL] Failed to start gauge API: Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 15:00:32.703 [Gauge] [DEBUG] Created gauge_screenshots_dir at c:\Work_stuff\gauge_framework_project\.gauge\screenshots
+21-12-2020 15:00:32.705 [Gauge] [DEBUG] Plugin json-report is already installed.
+21-12-2020 15:00:32.705 [Gauge] [DEBUG] Plugin python is already installed.
+21-12-2020 15:00:32.705 [Gauge] [DEBUG] Plugin html-report is already installed.
+21-12-2020 15:00:32.706 [Gauge] [DEBUG] Plugin flash is already installed.
+21-12-2020 15:00:32.706 [Gauge] [DEBUG] Parsing started.
+21-12-2020 15:00:32.706 [Gauge] [DEBUG] Started concepts parsing.
+21-12-2020 15:00:32.713 [Gauge] [DEBUG] 11 concepts parsing completed.
+21-12-2020 15:00:32.714 [Gauge] [DEBUG] Started specifications parsing.
+21-12-2020 15:00:32.715 [Gauge] [DEBUG] 1 specifications parsing completed.
+21-12-2020 15:00:32.715 [Gauge] [DEBUG] Parsing completed.
+21-12-2020 15:00:32.928 [python] [ERROR] P
+21-12-2020 15:00:32.928 [python] [ERROR] ython was not found; run without argu
+21-12-2020 15:00:32.928 [python] [ERROR] ments to
+21-12-2020 15:00:32.928 [python] [ERROR] instal
+21-12-2020 15:00:32.928 [python] [ERROR] l from
+21-12-2020 15:00:32.928 [python] [ERROR] the Mi
+21-12-2020 15:00:32.928 [python] [ERROR] crosof
+21-12-2020 15:00:32.928 [python] [ERROR] t Stor
+21-12-2020 15:00:32.928 [python] [ERROR] e, or
+21-12-2020 15:00:32.928 [python] [ERROR] disabl
+21-12-2020 15:00:32.928 [python] [ERROR] e this
+21-12-2020 15:00:32.928 [python] [ERROR] short
+21-12-2020 15:00:32.928 [python] [ERROR] cut fr
+21-12-2020 15:00:32.928 [python] [ERROR] om Sett
+21-12-2020 15:00:32.928 [python] [ERROR] ings >
+21-12-2020 15:00:32.928 [python] [ERROR] Manage Ap
+21-12-2020 15:00:32.928 [python] [ERROR] p Executi
+21-12-2020 15:00:32.928 [python] [ERROR] on Alias
+21-12-2020 15:00:32.928 [python] [ERROR] es.
+21-12-2020 15:00:33.117 [python] [ERROR] P
+21-12-2020 15:00:33.117 [python] [ERROR] ython was not found; run without arguments to install from
+21-12-2020 15:00:33.117 [python] [ERROR] the Microsoft Store, or disable this shortcut
+21-12-2020 15:00:33.117 [python] [ERROR] from Setting
+21-12-2020 15:00:33.117 [python] [ERROR] s > Mana
+21-12-2020 15:00:33.118 [python] [ERROR] ge Ap
+21-12-2020 15:00:33.118 [python] [ERROR] p Exec
+21-12-2020 15:00:33.118 [python] [ERROR] ution
+21-12-2020 15:00:33.118 [python] [ERROR] Aliase
+21-12-2020 15:00:33.118 [python] [ERROR] s.
+21-12-2020 15:00:33.129 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 15:00:33.129 [Gauge] [CRITICAL] Failed to start gauge API: Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 15:00:36.555 [Gauge] [DEBUG] Created gauge_screenshots_dir at c:\Work_stuff\gauge_framework_project\.gauge\screenshots
+21-12-2020 15:00:36.556 [Gauge] [DEBUG] Plugin python is already installed.
+21-12-2020 15:00:36.557 [Gauge] [DEBUG] Plugin html-report is already installed.
+21-12-2020 15:00:36.557 [Gauge] [DEBUG] Plugin flash is already installed.
+21-12-2020 15:00:36.558 [Gauge] [DEBUG] Plugin json-report is already installed.
+21-12-2020 15:00:36.558 [Gauge] [DEBUG] Parsing started.
+21-12-2020 15:00:36.558 [Gauge] [DEBUG] Started concepts parsing.
+21-12-2020 15:00:36.565 [Gauge] [DEBUG] 11 concepts parsing completed.
+21-12-2020 15:00:36.566 [Gauge] [DEBUG] Started specifications parsing.
+21-12-2020 15:00:36.573 [Gauge] [DEBUG] 1 specifications parsing completed.
+21-12-2020 15:00:36.573 [Gauge] [DEBUG] Parsing completed.
+21-12-2020 15:00:36.789 [python] [ERROR] P
+21-12-2020 15:00:36.789 [python] [ERROR] ython was not found; run without arguments to install from the Microsoft
+21-12-2020 15:00:36.789 [python] [ERROR] Store, or disa
+21-12-2020 15:00:36.789 [python] [ERROR] ble this sh
+21-12-2020 15:00:36.789 [python] [ERROR] ortcut fr
+21-12-2020 15:00:36.789 [python] [ERROR] om Settings
+21-12-2020 15:00:36.789 [python] [ERROR] > Manage
+21-12-2020 15:00:36.789 [python] [ERROR] App Exec
+21-12-2020 15:00:36.789 [python] [ERROR] ution Ali
+21-12-2020 15:00:36.789 [python] [ERROR] ases.
+21-12-2020 15:00:36.790 [Gauge] [DEBUG] Checking updates...
+21-12-2020 15:00:36.792 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/flash?l=python&p=flash,html-report,json-report,python,screenshot&o=windows&a=amd64
+21-12-2020 15:00:37.002 [python] [ERROR] P
+21-12-2020 15:00:37.002 [python] [ERROR] ython was not found; run withou
+21-12-2020 15:00:37.002 [python] [ERROR] t argume
+21-12-2020 15:00:37.002 [python] [ERROR] nts to in
+21-12-2020 15:00:37.002 [python] [ERROR] stall f
+21-12-2020 15:00:37.002 [python] [ERROR] rom the M
+21-12-2020 15:00:37.002 [python] [ERROR] icrosof
+21-12-2020 15:00:37.002 [python] [ERROR] t Store,
+21-12-2020 15:00:37.002 [python] [ERROR] or disa
+21-12-2020 15:00:37.002 [python] [ERROR] ble this sh
+21-12-2020 15:00:37.002 [python] [ERROR] ortcut
+21-12-2020 15:00:37.002 [python] [ERROR] from Setti
+21-12-2020 15:00:37.002 [python] [ERROR] ngs > Manage App Execution Aliase
+21-12-2020 15:00:37.002 [python] [ERROR] s.
+21-12-2020 15:00:37.015 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 15:00:37.015 [Gauge] [CRITICAL] Failed to start gauge API: Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 15:00:46.933 [Gauge] [DEBUG] Created gauge_screenshots_dir at c:\Work_stuff\gauge_framework_project\.gauge\screenshots
+21-12-2020 15:00:46.934 [Gauge] [DEBUG] Plugin python is already installed.
+21-12-2020 15:00:46.934 [Gauge] [DEBUG] Plugin html-report is already installed.
+21-12-2020 15:00:46.935 [Gauge] [DEBUG] Plugin flash is already installed.
+21-12-2020 15:00:46.936 [Gauge] [DEBUG] Plugin json-report is already installed.
+21-12-2020 15:00:46.936 [Gauge] [DEBUG] Parsing started.
+21-12-2020 15:00:46.936 [Gauge] [DEBUG] Started concepts parsing.
+21-12-2020 15:00:46.944 [Gauge] [DEBUG] 11 concepts parsing completed.
+21-12-2020 15:00:46.944 [Gauge] [DEBUG] Started specifications parsing.
+21-12-2020 15:00:46.947 [Gauge] [DEBUG] 1 specifications parsing completed.
+21-12-2020 15:00:46.947 [Gauge] [DEBUG] Parsing completed.
+21-12-2020 15:00:47.164 [python] [ERROR] P
+21-12-2020 15:00:47.164 [python] [ERROR] ython was not found; run without arguments to install from th
+21-12-2020 15:00:47.164 [python] [ERROR] e
+21-12-2020 15:00:47.164 [python] [ERROR] Microsoft Store, or disable this
+21-12-2020 15:00:47.164 [python] [ERROR] shortc
+21-12-2020 15:00:47.164 [python] [ERROR] ut from
+21-12-2020 15:00:47.164 [python] [ERROR] Setti
+21-12-2020 15:00:47.164 [python] [ERROR] ngs >
+21-12-2020 15:00:47.164 [python] [ERROR] Manage
+21-12-2020 15:00:47.165 [python] [ERROR] App E
+21-12-2020 15:00:47.165 [python] [ERROR] xecut
+21-12-2020 15:00:47.165 [python] [ERROR] ion Alias
+21-12-2020 15:00:47.165 [python] [ERROR] es.
+21-12-2020 15:00:47.167 [Gauge] [DEBUG] Checking updates...
+21-12-2020 15:00:47.168 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/flash?l=python&p=flash,html-report,json-report,python,screenshot&o=windows&a=amd64
+21-12-2020 15:00:47.352 [python] [ERROR] P
+21-12-2020 15:00:47.358 [python] [ERROR] ython was not found; run without arguments to install f
+21-12-2020 15:00:47.358 [python] [ERROR] rom
+21-12-2020 15:00:47.358 [python] [ERROR] the Mic
+21-12-2020 15:00:47.358 [python] [ERROR] rosoft
+21-12-2020 15:00:47.358 [python] [ERROR] Store,
+21-12-2020 15:00:47.358 [python] [ERROR] or disable
+21-12-2020 15:00:47.358 [python] [ERROR] this
+21-12-2020 15:00:47.358 [python] [ERROR] shortcut
+21-12-2020 15:00:47.358 [python] [ERROR] from S
+21-12-2020 15:00:47.358 [python] [ERROR] ettings >
+21-12-2020 15:00:47.358 [python] [ERROR] Manag
+21-12-2020 15:00:47.358 [python] [ERROR] e App Exe
+21-12-2020 15:00:47.358 [python] [ERROR] cution
+21-12-2020 15:00:47.358 [python] [ERROR] Aliases
+21-12-2020 15:00:47.358 [python] [ERROR] .
+21-12-2020 15:00:47.370 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 15:00:47.370 [Gauge] [CRITICAL] Failed to start gauge API: Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 15:17:19.092 [Gauge] [DEBUG] Created gauge_screenshots_dir at c:\Work_stuff\gauge_framework_project\.gauge\screenshots
+21-12-2020 15:17:19.093 [Gauge] [DEBUG] Plugin python is already installed.
+21-12-2020 15:17:19.093 [Gauge] [DEBUG] Plugin html-report is already installed.
+21-12-2020 15:17:19.093 [Gauge] [DEBUG] Plugin flash is already installed.
+21-12-2020 15:17:19.094 [Gauge] [DEBUG] Plugin json-report is already installed.
+21-12-2020 15:17:19.094 [Gauge] [DEBUG] Parsing started.
+21-12-2020 15:17:19.094 [Gauge] [DEBUG] Started concepts parsing.
+21-12-2020 15:17:19.102 [Gauge] [DEBUG] 11 concepts parsing completed.
+21-12-2020 15:17:19.102 [Gauge] [DEBUG] Started specifications parsing.
+21-12-2020 15:17:19.108 [Gauge] [DEBUG] 1 specifications parsing completed.
+21-12-2020 15:17:19.108 [Gauge] [DEBUG] Parsing completed.
+21-12-2020 15:17:19.336 [python] [ERROR] P
+21-12-2020 15:17:19.336 [python] [ERROR] ython was not found; run without arguments t
+21-12-2020 15:17:19.336 [python] [ERROR] o ins
+21-12-2020 15:17:19.336 [python] [ERROR] tall fro
+21-12-2020 15:17:19.336 [python] [ERROR] m the
+21-12-2020 15:17:19.336 [python] [ERROR] Microso
+21-12-2020 15:17:19.336 [python] [ERROR] ft Sto
+21-12-2020 15:17:19.336 [python] [ERROR] re, or
+21-12-2020 15:17:19.336 [python] [ERROR] disabl
+21-12-2020 15:17:19.336 [python] [ERROR] e this
+21-12-2020 15:17:19.336 [python] [ERROR] shortc
+21-12-2020 15:17:19.336 [python] [ERROR] ut fro
+21-12-2020 15:17:19.336 [python] [ERROR] m Sett
+21-12-2020 15:17:19.336 [python] [ERROR] ings > M
+21-12-2020 15:17:19.336 [python] [ERROR] anage
+21-12-2020 15:17:19.336 [python] [ERROR] App Ex
+21-12-2020 15:17:19.336 [python] [ERROR] ecutio
+21-12-2020 15:17:19.336 [python] [ERROR] n Alias
+21-12-2020 15:17:19.336 [python] [ERROR] es.
+21-12-2020 15:17:19.516 [python] [ERROR] P
+21-12-2020 15:17:19.516 [python] [ERROR] ython was not found; run without argu
+21-12-2020 15:17:19.516 [python] [ERROR] ments t
+21-12-2020 15:17:19.516 [python] [ERROR] o insta
+21-12-2020 15:17:19.516 [python] [ERROR] ll fro
+21-12-2020 15:17:19.516 [python] [ERROR] m the M
+21-12-2020 15:17:19.516 [python] [ERROR] icrosof
+21-12-2020 15:17:19.516 [python] [ERROR] t Store
+21-12-2020 15:17:19.516 [python] [ERROR] , or d
+21-12-2020 15:17:19.516 [python] [ERROR] isable
+21-12-2020 15:17:19.516 [python] [ERROR] this s
+21-12-2020 15:17:19.516 [python] [ERROR] hortcut
+21-12-2020 15:17:19.516 [python] [ERROR] from
+21-12-2020 15:17:19.516 [python] [ERROR] Setting
+21-12-2020 15:17:19.517 [python] [ERROR] s > M
+21-12-2020 15:17:19.517 [python] [ERROR] anage A
+21-12-2020 15:17:19.517 [python] [ERROR] pp Exe
+21-12-2020 15:17:19.517 [python] [ERROR] cution
+21-12-2020 15:17:19.517 [python] [ERROR] Aliase
+21-12-2020 15:17:19.517 [python] [ERROR] s.
+21-12-2020 15:17:19.530 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 15:17:19.530 [Gauge] [CRITICAL] Failed to start gauge API: Error occurred while waiting for runner process to finish.
+Error : exit status 9009

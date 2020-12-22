@@ -1,0 +1,7 @@
+[
+	"gauge",
+	"run",
+	"c:\\Work_stuff\\gauge_framework_project\\specs\\fanuc.spec:108",
+	"--simple-console",
+	"--hide-suggestion"
+]

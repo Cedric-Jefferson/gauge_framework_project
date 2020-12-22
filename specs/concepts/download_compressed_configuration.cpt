@@ -1,0 +1,27 @@
+//////////////////////////////////////////////////////////////////////////
+/
+/   MOLEX Ltd. Test Spec
+/   developed by Steve Korber
+/   Steve.Korber@molex.com
+/
+/   Download config Concept for Test Automation
+/
+//////////////////////////////////////////////////////////////////////////
+
+//////////////////////////////////////////////////////////////////////////
+/ concept definition
+///
+# Download compressed configuration <filename>
+
+* Load config <filename>
+* Get config crc <filename>
+* Config register
+* Config unregister
+* Config lock
+* Config unlock
+* Write block network config compressed
+* Config mode
+* Config validate
+* Config apply
+* Soft reset device
+* Wait "10"

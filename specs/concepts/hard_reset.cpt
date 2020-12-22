@@ -1,0 +1,21 @@
+//////////////////////////////////////////////////////////////////////////
+/
+/   MOLEX Ltd. Test Spec
+/   developed by Steve Korber
+/   Steve.Korber@molex.com
+/
+/   Hard reset device Concept for Test Automation
+/
+//////////////////////////////////////////////////////////////////////////
+
+//////////////////////////////////////////////////////////////////////////
+/ concept definition
+///
+# Hard reset device
+
+Cycle power using the web relay
+
+* Set web relay power "0"
+* Wait "5"
+* Set web relay power "1"
+* Verify web relay status "0"

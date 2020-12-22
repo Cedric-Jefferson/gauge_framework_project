@@ -1,0 +1,8 @@
+{
+  "Language": "python",
+  "Plugins": [
+    "html-report",
+    "flash",
+    "json-report"
+  ]
+}

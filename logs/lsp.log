@@ -1,0 +1,2039 @@
+21-12-2020 11:57:08.619 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs
+21-12-2020 11:57:08.622 [Gauge] [DEBUG] Found 10 files
+21-12-2020 11:57:08.622 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs\concepts
+21-12-2020 11:57:08.622 [Gauge] [DEBUG] Found 11 files
+21-12-2020 11:57:08.643 [Gauge] [INFO] Initializing concepts cache with 11 concepts
+21-12-2020 11:57:08.643 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 11:57:08.643 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset_ssr.cpt
+21-12-2020 11:57:08.643 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_safe_io.cpt
+21-12-2020 11:57:08.646 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_configuration.cpt
+21-12-2020 11:57:08.647 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset.cpt
+21-12-2020 11:57:08.647 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\remove_configuration.cpt
+21-12-2020 11:57:08.647 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_io.cpt
+21-12-2020 11:57:08.647 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_safe_device.cpt
+21-12-2020 11:57:08.647 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\donwload_configuration_lookup.cpt
+21-12-2020 11:57:08.647 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_compressed_configuration.cpt
+21-12-2020 11:57:08.647 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\verify_pc_connection.cpt
+21-12-2020 11:57:08.695 [Gauge] [INFO] Initializing specs cache with 9 specs
+21-12-2020 11:57:08.695 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\ssr-demo.spec
+21-12-2020 11:57:08.695 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\eip-demo.spec
+21-12-2020 11:57:08.695 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\managed-switch.spec
+21-12-2020 11:57:08.695 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\test.spec
+21-12-2020 11:57:08.695 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\opc-demo.spec
+21-12-2020 11:57:08.695 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\fanuc.spec
+21-12-2020 11:57:08.695 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\osprey.spec
+21-12-2020 11:57:08.695 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\hawk.spec
+21-12-2020 11:57:08.695 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\old.spec
+21-12-2020 11:57:08.695 [Gauge] [INFO] Initializing steps cache with 20 steps
+21-12-2020 11:57:08.698 [Gauge] [INFO] Starting language runner
+21-12-2020 11:57:09.547 [python] [ERROR] P
+21-12-2020 11:57:09.547 [python] [ERROR] ython was not foun
+21-12-2020 11:57:09.547 [python] [ERROR] d; run
+21-12-2020 11:57:09.547 [python] [ERROR] withou
+21-12-2020 11:57:09.547 [python] [ERROR] t argu
+21-12-2020 11:57:09.547 [python] [ERROR] ments
+21-12-2020 11:57:09.547 [python] [ERROR] to in
+21-12-2020 11:57:09.547 [python] [ERROR] stall
+21-12-2020 11:57:09.547 [python] [ERROR] from
+21-12-2020 11:57:09.547 [python] [ERROR] the Mi
+21-12-2020 11:57:09.547 [python] [ERROR] croso
+21-12-2020 11:57:09.547 [python] [ERROR] ft Sto
+21-12-2020 11:57:09.547 [python] [ERROR] re, or
+21-12-2020 11:57:09.547 [python] [ERROR] disab
+21-12-2020 11:57:09.547 [python] [ERROR] le th
+21-12-2020 11:57:09.547 [python] [ERROR] is sho
+21-12-2020 11:57:09.547 [python] [ERROR] rtcut
+21-12-2020 11:57:09.548 [python] [ERROR] from
+21-12-2020 11:57:09.548 [python] [ERROR] Settin
+21-12-2020 11:57:09.548 [python] [ERROR] gs > M
+21-12-2020 11:57:09.548 [python] [ERROR] anage App Executio
+21-12-2020 11:57:09.548 [python] [ERROR] n Aliases.
+21-12-2020 11:57:10.190 [python] [ERROR] P
+21-12-2020 11:57:10.190 [python] [ERROR] ython was not f
+21-12-2020 11:57:10.190 [python] [ERROR] ound;
+21-12-2020 11:57:10.190 [python] [ERROR] run w
+21-12-2020 11:57:10.190 [python] [ERROR] ithout
+21-12-2020 11:57:10.191 [python] [ERROR] argu
+21-12-2020 11:57:10.191 [python] [ERROR] ments t
+21-12-2020 11:57:10.191 [python] [ERROR] o insta
+21-12-2020 11:57:10.191 [python] [ERROR] ll from
+21-12-2020 11:57:10.191 [python] [ERROR] the Mic
+21-12-2020 11:57:10.191 [python] [ERROR] rosoft S
+21-12-2020 11:57:10.191 [python] [ERROR] tore, or
+21-12-2020 11:57:10.191 [python] [ERROR] disable
+21-12-2020 11:57:10.191 [python] [ERROR] this s
+21-12-2020 11:57:10.191 [python] [ERROR] hortcut
+21-12-2020 11:57:10.191 [python] [ERROR] from Se
+21-12-2020 11:57:10.191 [python] [ERROR] ttings >
+21-12-2020 11:57:10.191 [python] [ERROR] Manage
+21-12-2020 11:57:10.191 [python] [ERROR] App Exe
+21-12-2020 11:57:10.191 [python] [ERROR] cution
+21-12-2020 11:57:10.191 [python] [ERROR] Aliases.
+21-12-2020 11:57:10.215 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 11:57:10.215 [Gauge] [DEBUG] Gauge could not initialize. Install 'ms-python.python' extension for code insights. For more information see[Problems](command:workbench.actions.view.problems), check logs.[Troubleshooting](https://docs.gauge.org/troubleshooting.html?language=javascript&ide=vscode#gauge-could-not-initialize-for-more-information-see-problems)
+Some of the gauge lsp feature will not work as expected.
+21-12-2020 11:57:10.215 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+21-12-2020 11:57:10.238 [Gauge] [INFO] Connection closed
+21-12-2020 11:57:10.238 [Gauge] [ERROR] Unable to log error 'Connection closed' to LSP: jsonrpc2: connection is closed
+21-12-2020 11:57:13.413 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs
+21-12-2020 11:57:13.415 [Gauge] [DEBUG] Found 10 files
+21-12-2020 11:57:13.415 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs\concepts
+21-12-2020 11:57:13.416 [Gauge] [DEBUG] Found 11 files
+21-12-2020 11:57:13.485 [Gauge] [INFO] Initializing concepts cache with 11 concepts
+21-12-2020 11:57:13.485 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_safe_device.cpt
+21-12-2020 11:57:13.485 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\donwload_configuration_lookup.cpt
+21-12-2020 11:57:13.485 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\verify_pc_connection.cpt
+21-12-2020 11:57:13.485 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_compressed_configuration.cpt
+21-12-2020 11:57:13.486 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_configuration.cpt
+21-12-2020 11:57:13.486 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset_ssr.cpt
+21-12-2020 11:57:13.486 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\remove_configuration.cpt
+21-12-2020 11:57:13.486 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_safe_io.cpt
+21-12-2020 11:57:13.486 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 11:57:13.486 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset.cpt
+21-12-2020 11:57:13.486 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_io.cpt
+21-12-2020 11:57:13.627 [Gauge] [INFO] Initializing specs cache with 9 specs
+21-12-2020 11:57:13.627 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\old.spec
+21-12-2020 11:57:13.627 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\osprey.spec
+21-12-2020 11:57:13.627 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\eip-demo.spec
+21-12-2020 11:57:13.627 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\fanuc.spec
+21-12-2020 11:57:13.627 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\hawk.spec
+21-12-2020 11:57:13.627 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\managed-switch.spec
+21-12-2020 11:57:13.627 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\opc-demo.spec
+21-12-2020 11:57:13.627 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\test.spec
+21-12-2020 11:57:13.628 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\ssr-demo.spec
+21-12-2020 11:57:13.628 [Gauge] [INFO] Initializing steps cache with 20 steps
+21-12-2020 11:57:13.630 [Gauge] [INFO] Starting language runner
+21-12-2020 11:57:14.262 [python] [ERROR] P
+21-12-2020 11:57:14.262 [python] [ERROR] ython was not foun
+21-12-2020 11:57:14.262 [python] [ERROR] d; ru
+21-12-2020 11:57:14.262 [python] [ERROR] n wit
+21-12-2020 11:57:14.262 [python] [ERROR] hout
+21-12-2020 11:57:14.262 [python] [ERROR] argu
+21-12-2020 11:57:14.262 [python] [ERROR] ments
+21-12-2020 11:57:14.262 [python] [ERROR] to
+21-12-2020 11:57:14.262 [python] [ERROR] insta
+21-12-2020 11:57:14.262 [python] [ERROR] ll fr
+21-12-2020 11:57:14.262 [python] [ERROR] om th
+21-12-2020 11:57:14.262 [python] [ERROR] e Mi
+21-12-2020 11:57:14.262 [python] [ERROR] croso
+21-12-2020 11:57:14.262 [python] [ERROR] ft S
+21-12-2020 11:57:14.262 [python] [ERROR] tore,
+21-12-2020 11:57:14.262 [python] [ERROR] or
+21-12-2020 11:57:14.262 [python] [ERROR] disab
+21-12-2020 11:57:14.262 [python] [ERROR] le t
+21-12-2020 11:57:14.262 [python] [ERROR] his sh
+21-12-2020 11:57:14.262 [python] [ERROR] ortcu
+21-12-2020 11:57:14.263 [python] [ERROR] t fro
+21-12-2020 11:57:14.263 [python] [ERROR] m Set
+21-12-2020 11:57:14.263 [python] [ERROR] tings
+21-12-2020 11:57:14.263 [python] [ERROR] > Ma
+21-12-2020 11:57:14.263 [python] [ERROR] nage A
+21-12-2020 11:57:14.263 [python] [ERROR] pp Ex
+21-12-2020 11:57:14.263 [python] [ERROR] ecut
+21-12-2020 11:57:14.263 [python] [ERROR] ion A
+21-12-2020 11:57:14.263 [python] [ERROR] lias
+21-12-2020 11:57:14.263 [python] [ERROR] es.
+21-12-2020 11:57:14.744 [python] [ERROR] P
+21-12-2020 11:57:14.744 [python] [ERROR] ython was not found; run
+21-12-2020 11:57:14.744 [python] [ERROR] withou
+21-12-2020 11:57:14.744 [python] [ERROR] t argu
+21-12-2020 11:57:14.744 [python] [ERROR] ments
+21-12-2020 11:57:14.744 [python] [ERROR] to inst
+21-12-2020 11:57:14.744 [python] [ERROR] all fr
+21-12-2020 11:57:14.744 [python] [ERROR] om the
+21-12-2020 11:57:14.744 [python] [ERROR] Micros
+21-12-2020 11:57:14.744 [python] [ERROR] oft Sto
+21-12-2020 11:57:14.744 [python] [ERROR] re, or
+21-12-2020 11:57:14.744 [python] [ERROR] disabl
+21-12-2020 11:57:14.744 [python] [ERROR] e this
+21-12-2020 11:57:14.744 [python] [ERROR] shortcut
+21-12-2020 11:57:14.744 [python] [ERROR] from Se
+21-12-2020 11:57:14.744 [python] [ERROR] ttings >
+21-12-2020 11:57:14.744 [python] [ERROR] Manage
+21-12-2020 11:57:14.744 [python] [ERROR] App Exec
+21-12-2020 11:57:14.744 [python] [ERROR] ution A
+21-12-2020 11:57:14.744 [python] [ERROR] liases.
+21-12-2020 11:57:14.764 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 11:57:14.764 [Gauge] [DEBUG] Gauge could not initialize. Install 'ms-python.python' extension for code insights. For more information see[Problems](command:workbench.actions.view.problems), check logs.[Troubleshooting](https://docs.gauge.org/troubleshooting.html?language=javascript&ide=vscode#gauge-could-not-initialize-for-more-information-see-problems)
+Some of the gauge lsp feature will not work as expected.
+21-12-2020 11:57:14.764 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+21-12-2020 11:57:14.781 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+21-12-2020 12:39:50.657 [Gauge] [INFO] Connection closed
+21-12-2020 12:40:58.122 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs
+21-12-2020 12:40:58.122 [Gauge] [DEBUG] Found 10 files
+21-12-2020 12:40:58.123 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs\concepts
+21-12-2020 12:40:58.123 [Gauge] [DEBUG] Found 11 files
+21-12-2020 12:40:58.139 [Gauge] [INFO] Initializing concepts cache with 11 concepts
+21-12-2020 12:40:58.139 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_safe_device.cpt
+21-12-2020 12:40:58.139 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\remove_configuration.cpt
+21-12-2020 12:40:58.139 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_io.cpt
+21-12-2020 12:40:58.139 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_safe_io.cpt
+21-12-2020 12:40:58.139 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\verify_pc_connection.cpt
+21-12-2020 12:40:58.139 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 12:40:58.139 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_compressed_configuration.cpt
+21-12-2020 12:40:58.139 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset_ssr.cpt
+21-12-2020 12:40:58.139 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset.cpt
+21-12-2020 12:40:58.139 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\donwload_configuration_lookup.cpt
+21-12-2020 12:40:58.139 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_configuration.cpt
+21-12-2020 12:40:58.165 [Gauge] [INFO] Initializing specs cache with 9 specs
+21-12-2020 12:40:58.165 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\hawk.spec
+21-12-2020 12:40:58.165 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\ssr-demo.spec
+21-12-2020 12:40:58.165 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\fanuc.spec
+21-12-2020 12:40:58.165 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\osprey.spec
+21-12-2020 12:40:58.165 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\managed-switch.spec
+21-12-2020 12:40:58.165 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\old.spec
+21-12-2020 12:40:58.166 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\test.spec
+21-12-2020 12:40:58.166 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\opc-demo.spec
+21-12-2020 12:40:58.166 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\eip-demo.spec
+21-12-2020 12:40:58.166 [Gauge] [INFO] Initializing steps cache with 20 steps
+21-12-2020 12:40:58.171 [Gauge] [INFO] Starting language runner
+21-12-2020 12:40:59.085 [python] [ERROR] P
+21-12-2020 12:40:59.085 [python] [ERROR] ython was not fou
+21-12-2020 12:40:59.085 [python] [ERROR] nd
+21-12-2020 12:40:59.085 [python] [ERROR] ; ru
+21-12-2020 12:40:59.085 [python] [ERROR] n w
+21-12-2020 12:40:59.085 [python] [ERROR] ith
+21-12-2020 12:40:59.085 [python] [ERROR] out
+21-12-2020 12:40:59.085 [python] [ERROR] ar
+21-12-2020 12:40:59.085 [python] [ERROR] gum
+21-12-2020 12:40:59.085 [python] [ERROR] ent
+21-12-2020 12:40:59.085 [python] [ERROR] s t
+21-12-2020 12:40:59.085 [python] [ERROR] o
+21-12-2020 12:40:59.085 [python] [ERROR] ins
+21-12-2020 12:40:59.085 [python] [ERROR] tal
+21-12-2020 12:40:59.085 [python] [ERROR] l f
+21-12-2020 12:40:59.085 [python] [ERROR] rom
+21-12-2020 12:40:59.085 [python] [ERROR] th
+21-12-2020 12:40:59.085 [python] [ERROR] e M
+21-12-2020 12:40:59.085 [python] [ERROR] icrosoft Stor
+21-12-2020 12:40:59.085 [python] [ERROR] e, o
+21-12-2020 12:40:59.085 [python] [ERROR] r d
+21-12-2020 12:40:59.085 [python] [ERROR] isa
+21-12-2020 12:40:59.085 [python] [ERROR] ble
+21-12-2020 12:40:59.085 [python] [ERROR] th
+21-12-2020 12:40:59.085 [python] [ERROR] is
+21-12-2020 12:40:59.085 [python] [ERROR] sh
+21-12-2020 12:40:59.085 [python] [ERROR] ort
+21-12-2020 12:40:59.085 [python] [ERROR] cut
+21-12-2020 12:40:59.085 [python] [ERROR] fr
+21-12-2020 12:40:59.085 [python] [ERROR] om
+21-12-2020 12:40:59.085 [python] [ERROR] Set
+21-12-2020 12:40:59.085 [python] [ERROR] tin
+21-12-2020 12:40:59.085 [python] [ERROR] gs
+21-12-2020 12:40:59.085 [python] [ERROR] >
+21-12-2020 12:40:59.085 [python] [ERROR] Man
+21-12-2020 12:40:59.085 [python] [ERROR] age
+21-12-2020 12:40:59.085 [python] [ERROR] Ap
+21-12-2020 12:40:59.085 [python] [ERROR] p E
+21-12-2020 12:40:59.085 [python] [ERROR] xec
+21-12-2020 12:40:59.085 [python] [ERROR] uti
+21-12-2020 12:40:59.085 [python] [ERROR] on
+21-12-2020 12:40:59.086 [python] [ERROR] Al
+21-12-2020 12:40:59.086 [python] [ERROR] iase
+21-12-2020 12:40:59.086 [python] [ERROR] s.
+21-12-2020 12:40:59.602 [python] [ERROR] P
+21-12-2020 12:40:59.602 [python] [ERROR] ython was not found
+21-12-2020 12:40:59.602 [python] [ERROR] ; run
+21-12-2020 12:40:59.602 [python] [ERROR] withou
+21-12-2020 12:40:59.602 [python] [ERROR] t ar
+21-12-2020 12:40:59.602 [python] [ERROR] gumen
+21-12-2020 12:40:59.602 [python] [ERROR] ts to
+21-12-2020 12:40:59.602 [python] [ERROR] inst
+21-12-2020 12:40:59.602 [python] [ERROR] all f
+21-12-2020 12:40:59.602 [python] [ERROR] rom t
+21-12-2020 12:40:59.602 [python] [ERROR] he Mi
+21-12-2020 12:40:59.602 [python] [ERROR] croso
+21-12-2020 12:40:59.602 [python] [ERROR] ft St
+21-12-2020 12:40:59.602 [python] [ERROR] ore,
+21-12-2020 12:40:59.602 [python] [ERROR] or d
+21-12-2020 12:40:59.602 [python] [ERROR] isabl
+21-12-2020 12:40:59.602 [python] [ERROR] e thi
+21-12-2020 12:40:59.602 [python] [ERROR] s sho
+21-12-2020 12:40:59.602 [python] [ERROR] rtcut
+21-12-2020 12:40:59.602 [python] [ERROR] from S
+21-12-2020 12:40:59.602 [python] [ERROR] etti
+21-12-2020 12:40:59.602 [python] [ERROR] ngs >
+21-12-2020 12:40:59.602 [python] [ERROR] Mana
+21-12-2020 12:40:59.602 [python] [ERROR] ge App
+21-12-2020 12:40:59.602 [python] [ERROR] Exec
+21-12-2020 12:40:59.603 [python] [ERROR] ution A
+21-12-2020 12:40:59.603 [python] [ERROR] liase
+21-12-2020 12:40:59.603 [python] [ERROR] s.
+21-12-2020 12:40:59.625 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 12:40:59.625 [Gauge] [DEBUG] Gauge could not initialize. Install 'ms-python.python' extension for code insights. For more information see[Problems](command:workbench.actions.view.problems), check logs.[Troubleshooting](https://docs.gauge.org/troubleshooting.html?language=javascript&ide=vscode#gauge-could-not-initialize-for-more-information-see-problems)
+Some of the gauge lsp feature will not work as expected.
+21-12-2020 12:40:59.625 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+21-12-2020 12:41:00.463 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+21-12-2020 12:50:13.539 [Gauge] [INFO] Connection closed
+21-12-2020 12:50:17.286 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs
+21-12-2020 12:50:17.325 [Gauge] [DEBUG] Found 10 files
+21-12-2020 12:50:17.337 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs\concepts
+21-12-2020 12:50:17.337 [Gauge] [DEBUG] Found 11 files
+21-12-2020 12:50:17.356 [Gauge] [INFO] Initializing concepts cache with 11 concepts
+21-12-2020 12:50:17.356 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\donwload_configuration_lookup.cpt
+21-12-2020 12:50:17.357 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\remove_configuration.cpt
+21-12-2020 12:50:17.357 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 12:50:17.357 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_safe_io.cpt
+21-12-2020 12:50:17.357 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\verify_pc_connection.cpt
+21-12-2020 12:50:17.357 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_configuration.cpt
+21-12-2020 12:50:17.357 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_compressed_configuration.cpt
+21-12-2020 12:50:17.357 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset.cpt
+21-12-2020 12:50:17.357 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset_ssr.cpt
+21-12-2020 12:50:17.357 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_io.cpt
+21-12-2020 12:50:17.357 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_safe_device.cpt
+21-12-2020 12:50:17.414 [Gauge] [INFO] Initializing specs cache with 9 specs
+21-12-2020 12:50:17.414 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\old.spec
+21-12-2020 12:50:17.414 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\eip-demo.spec
+21-12-2020 12:50:17.414 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\hawk.spec
+21-12-2020 12:50:17.414 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\managed-switch.spec
+21-12-2020 12:50:17.414 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\ssr-demo.spec
+21-12-2020 12:50:17.414 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\opc-demo.spec
+21-12-2020 12:50:17.414 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\test.spec
+21-12-2020 12:50:17.414 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\osprey.spec
+21-12-2020 12:50:17.414 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\fanuc.spec
+21-12-2020 12:50:17.414 [Gauge] [INFO] Initializing steps cache with 20 steps
+21-12-2020 12:50:17.417 [Gauge] [INFO] Starting language runner
+21-12-2020 12:50:18.097 [python] [ERROR] P
+21-12-2020 12:50:18.098 [python] [ERROR] ython was not f
+21-12-2020 12:50:18.098 [python] [ERROR] ound; run
+21-12-2020 12:50:18.098 [python] [ERROR] withou
+21-12-2020 12:50:18.098 [python] [ERROR] t arg
+21-12-2020 12:50:18.098 [python] [ERROR] ument
+21-12-2020 12:50:18.098 [python] [ERROR] s to
+21-12-2020 12:50:18.098 [python] [ERROR] inst
+21-12-2020 12:50:18.098 [python] [ERROR] all
+21-12-2020 12:50:18.098 [python] [ERROR] from
+21-12-2020 12:50:18.098 [python] [ERROR] the
+21-12-2020 12:50:18.098 [python] [ERROR] Mic
+21-12-2020 12:50:18.098 [python] [ERROR] rosoft S
+21-12-2020 12:50:18.098 [python] [ERROR] tore,
+21-12-2020 12:50:18.098 [python] [ERROR] or d
+21-12-2020 12:50:18.098 [python] [ERROR] isable
+21-12-2020 12:50:18.098 [python] [ERROR] this
+21-12-2020 12:50:18.098 [python] [ERROR] sho
+21-12-2020 12:50:18.098 [python] [ERROR] rtcut
+21-12-2020 12:50:18.098 [python] [ERROR] from
+21-12-2020 12:50:18.098 [python] [ERROR] Set
+21-12-2020 12:50:18.098 [python] [ERROR] tings
+21-12-2020 12:50:18.098 [python] [ERROR] > M
+21-12-2020 12:50:18.098 [python] [ERROR] anage
+21-12-2020 12:50:18.098 [python] [ERROR] App
+21-12-2020 12:50:18.098 [python] [ERROR] Execu
+21-12-2020 12:50:18.098 [python] [ERROR] tion
+21-12-2020 12:50:18.098 [python] [ERROR] Ali
+21-12-2020 12:50:18.098 [python] [ERROR] ases
+21-12-2020 12:50:18.098 [python] [ERROR] .
+21-12-2020 12:50:18.584 [python] [ERROR] P
+21-12-2020 12:50:18.584 [python] [ERROR] ython was not found;
+21-12-2020 12:50:18.584 [python] [ERROR] run wit
+21-12-2020 12:50:18.584 [python] [ERROR] hout argu
+21-12-2020 12:50:18.584 [python] [ERROR] ments t
+21-12-2020 12:50:18.584 [python] [ERROR] o instal
+21-12-2020 12:50:18.584 [python] [ERROR] l from the Microsoft St
+21-12-2020 12:50:18.584 [python] [ERROR] ore, or
+21-12-2020 12:50:18.584 [python] [ERROR] disabl
+21-12-2020 12:50:18.584 [python] [ERROR] e this
+21-12-2020 12:50:18.584 [python] [ERROR] sho
+21-12-2020 12:50:18.584 [python] [ERROR] rtcut
+21-12-2020 12:50:18.584 [python] [ERROR] fro
+21-12-2020 12:50:18.584 [python] [ERROR] m Set
+21-12-2020 12:50:18.584 [python] [ERROR] ting
+21-12-2020 12:50:18.584 [python] [ERROR] s > M
+21-12-2020 12:50:18.584 [python] [ERROR] anag
+21-12-2020 12:50:18.584 [python] [ERROR] e App
+21-12-2020 12:50:18.584 [python] [ERROR] Exe
+21-12-2020 12:50:18.584 [python] [ERROR] cuti
+21-12-2020 12:50:18.584 [python] [ERROR] on A
+21-12-2020 12:50:18.584 [python] [ERROR] liase
+21-12-2020 12:50:18.585 [python] [ERROR] s.
+21-12-2020 12:50:18.605 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 12:50:18.605 [Gauge] [DEBUG] Gauge could not initialize. Install 'ms-python.python' extension for code insights. For more information see[Problems](command:workbench.actions.view.problems), check logs.[Troubleshooting](https://docs.gauge.org/troubleshooting.html?language=javascript&ide=vscode#gauge-could-not-initialize-for-more-information-see-problems)
+Some of the gauge lsp feature will not work as expected.
+21-12-2020 12:50:18.605 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+21-12-2020 12:50:18.622 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+21-12-2020 13:58:13.346 [Gauge] [INFO] Connection closed
+21-12-2020 13:58:13.346 [Gauge] [ERROR] Unable to log error 'Connection closed' to LSP: jsonrpc2: connection is closed
+21-12-2020 13:59:08.550 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs
+21-12-2020 13:59:08.551 [Gauge] [DEBUG] Found 10 files
+21-12-2020 13:59:08.552 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs\concepts
+21-12-2020 13:59:08.552 [Gauge] [DEBUG] Found 11 files
+21-12-2020 13:59:08.569 [Gauge] [INFO] Initializing concepts cache with 11 concepts
+21-12-2020 13:59:08.569 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 13:59:08.569 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset.cpt
+21-12-2020 13:59:08.569 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\remove_configuration.cpt
+21-12-2020 13:59:08.569 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_safe_device.cpt
+21-12-2020 13:59:08.569 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_compressed_configuration.cpt
+21-12-2020 13:59:08.569 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_io.cpt
+21-12-2020 13:59:08.569 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\verify_pc_connection.cpt
+21-12-2020 13:59:08.569 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_configuration.cpt
+21-12-2020 13:59:08.569 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_safe_io.cpt
+21-12-2020 13:59:08.569 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\donwload_configuration_lookup.cpt
+21-12-2020 13:59:08.569 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset_ssr.cpt
+21-12-2020 13:59:08.598 [Gauge] [INFO] Initializing specs cache with 9 specs
+21-12-2020 13:59:08.599 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\hawk.spec
+21-12-2020 13:59:08.599 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\eip-demo.spec
+21-12-2020 13:59:08.599 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\ssr-demo.spec
+21-12-2020 13:59:08.599 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\osprey.spec
+21-12-2020 13:59:08.599 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\fanuc.spec
+21-12-2020 13:59:08.599 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\old.spec
+21-12-2020 13:59:08.599 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\opc-demo.spec
+21-12-2020 13:59:08.599 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\managed-switch.spec
+21-12-2020 13:59:08.599 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\test.spec
+21-12-2020 13:59:08.599 [Gauge] [INFO] Initializing steps cache with 20 steps
+21-12-2020 13:59:08.601 [Gauge] [INFO] Starting language runner
+21-12-2020 13:59:09.453 [python] [ERROR] P
+21-12-2020 13:59:09.453 [python] [ERROR] ython was not found
+21-12-2020 13:59:09.453 [python] [ERROR] ; run
+21-12-2020 13:59:09.453 [python] [ERROR] witho
+21-12-2020 13:59:09.453 [python] [ERROR] ut a
+21-12-2020 13:59:09.453 [python] [ERROR] rgume
+21-12-2020 13:59:09.453 [python] [ERROR] nts t
+21-12-2020 13:59:09.453 [python] [ERROR] o ins
+21-12-2020 13:59:09.453 [python] [ERROR] tall
+21-12-2020 13:59:09.453 [python] [ERROR] from
+21-12-2020 13:59:09.453 [python] [ERROR] the
+21-12-2020 13:59:09.453 [python] [ERROR] Micro
+21-12-2020 13:59:09.453 [python] [ERROR] soft
+21-12-2020 13:59:09.453 [python] [ERROR] Store
+21-12-2020 13:59:09.453 [python] [ERROR] , or
+21-12-2020 13:59:09.453 [python] [ERROR] disa
+21-12-2020 13:59:09.453 [python] [ERROR] ble t
+21-12-2020 13:59:09.453 [python] [ERROR] his s
+21-12-2020 13:59:09.453 [python] [ERROR] hortc
+21-12-2020 13:59:09.453 [python] [ERROR] ut fr
+21-12-2020 13:59:09.453 [python] [ERROR] om S
+21-12-2020 13:59:09.453 [python] [ERROR] ettin
+21-12-2020 13:59:09.453 [python] [ERROR] gs >
+21-12-2020 13:59:09.453 [python] [ERROR] Manag
+21-12-2020 13:59:09.453 [python] [ERROR] e Ap
+21-12-2020 13:59:09.454 [python] [ERROR] p Exe
+21-12-2020 13:59:09.454 [python] [ERROR] cutio
+21-12-2020 13:59:09.454 [python] [ERROR] n Ali
+21-12-2020 13:59:09.454 [python] [ERROR] ases
+21-12-2020 13:59:09.454 [python] [ERROR] .
+21-12-2020 13:59:09.944 [python] [ERROR] P
+21-12-2020 13:59:09.944 [python] [ERROR] ython was not foun
+21-12-2020 13:59:09.944 [python] [ERROR] d; run
+21-12-2020 13:59:09.944 [python] [ERROR] without a
+21-12-2020 13:59:09.944 [python] [ERROR] rgument
+21-12-2020 13:59:09.944 [python] [ERROR] s to ins
+21-12-2020 13:59:09.944 [python] [ERROR] tall fr
+21-12-2020 13:59:09.944 [python] [ERROR] om the Mi
+21-12-2020 13:59:09.944 [python] [ERROR] crosoft
+21-12-2020 13:59:09.944 [python] [ERROR] Store, or
+21-12-2020 13:59:09.944 [python] [ERROR] disable
+21-12-2020 13:59:09.944 [python] [ERROR] this sh
+21-12-2020 13:59:09.944 [python] [ERROR] ortcut
+21-12-2020 13:59:09.944 [python] [ERROR] from Set
+21-12-2020 13:59:09.944 [python] [ERROR] tings >
+21-12-2020 13:59:09.944 [python] [ERROR] Manage A
+21-12-2020 13:59:09.944 [python] [ERROR] pp Execu
+21-12-2020 13:59:09.944 [python] [ERROR] tion Alias
+21-12-2020 13:59:09.944 [python] [ERROR] es.
+21-12-2020 13:59:09.964 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 13:59:09.964 [Gauge] [DEBUG] Gauge could not initialize. Install 'ms-python.python' extension for code insights. For more information see[Problems](command:workbench.actions.view.problems), check logs.[Troubleshooting](https://docs.gauge.org/troubleshooting.html?language=javascript&ide=vscode#gauge-could-not-initialize-for-more-information-see-problems)
+Some of the gauge lsp feature will not work as expected.
+21-12-2020 13:59:09.964 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+21-12-2020 13:59:09.986 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+21-12-2020 14:01:32.289 [Gauge] [INFO] Connection closed
+21-12-2020 14:01:37.295 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs
+21-12-2020 14:01:37.296 [Gauge] [DEBUG] Found 10 files
+21-12-2020 14:01:37.296 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs\concepts
+21-12-2020 14:01:37.296 [Gauge] [DEBUG] Found 11 files
+21-12-2020 14:01:37.321 [Gauge] [INFO] Initializing concepts cache with 11 concepts
+21-12-2020 14:01:37.321 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\verify_pc_connection.cpt
+21-12-2020 14:01:37.321 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_compressed_configuration.cpt
+21-12-2020 14:01:37.321 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_configuration.cpt
+21-12-2020 14:01:37.321 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\remove_configuration.cpt
+21-12-2020 14:01:37.321 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset_ssr.cpt
+21-12-2020 14:01:37.321 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\donwload_configuration_lookup.cpt
+21-12-2020 14:01:37.321 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_safe_io.cpt
+21-12-2020 14:01:37.321 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset.cpt
+21-12-2020 14:01:37.321 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_io.cpt
+21-12-2020 14:01:37.321 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 14:01:37.321 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_safe_device.cpt
+21-12-2020 14:01:37.360 [Gauge] [INFO] Initializing specs cache with 9 specs
+21-12-2020 14:01:37.360 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\fanuc.spec
+21-12-2020 14:01:37.360 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\old.spec
+21-12-2020 14:01:37.360 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\eip-demo.spec
+21-12-2020 14:01:37.360 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\ssr-demo.spec
+21-12-2020 14:01:37.360 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\test.spec
+21-12-2020 14:01:37.360 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\opc-demo.spec
+21-12-2020 14:01:37.360 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\hawk.spec
+21-12-2020 14:01:37.360 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\managed-switch.spec
+21-12-2020 14:01:37.360 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\osprey.spec
+21-12-2020 14:01:37.360 [Gauge] [INFO] Initializing steps cache with 20 steps
+21-12-2020 14:01:37.362 [Gauge] [INFO] Starting language runner
+21-12-2020 14:01:38.140 [python] [ERROR] P
+21-12-2020 14:01:38.140 [python] [ERROR] ython was not found
+21-12-2020 14:01:38.140 [python] [ERROR] ;
+21-12-2020 14:01:38.140 [python] [ERROR] r
+21-12-2020 14:01:38.140 [python] [ERROR] un wi
+21-12-2020 14:01:38.140 [python] [ERROR] thout
+21-12-2020 14:01:38.140 [python] [ERROR] arg
+21-12-2020 14:01:38.140 [python] [ERROR] ument
+21-12-2020 14:01:38.140 [python] [ERROR] s to
+21-12-2020 14:01:38.140 [python] [ERROR] instal
+21-12-2020 14:01:38.140 [python] [ERROR] l fro
+21-12-2020 14:01:38.140 [python] [ERROR] m the
+21-12-2020 14:01:38.140 [python] [ERROR] Micr
+21-12-2020 14:01:38.140 [python] [ERROR] osoft St
+21-12-2020 14:01:38.140 [python] [ERROR] ore,
+21-12-2020 14:01:38.140 [python] [ERROR] or d
+21-12-2020 14:01:38.140 [python] [ERROR] isab
+21-12-2020 14:01:38.140 [python] [ERROR] le th
+21-12-2020 14:01:38.140 [python] [ERROR] is sh
+21-12-2020 14:01:38.140 [python] [ERROR] ortcut
+21-12-2020 14:01:38.140 [python] [ERROR] from
+21-12-2020 14:01:38.140 [python] [ERROR] Setti
+21-12-2020 14:01:38.140 [python] [ERROR] ngs
+21-12-2020 14:01:38.141 [python] [ERROR] > Manage App Execution
+21-12-2020 14:01:38.141 [python] [ERROR] Aliase
+21-12-2020 14:01:38.141 [python] [ERROR] s.
+21-12-2020 14:01:38.584 [python] [ERROR] P
+21-12-2020 14:01:38.584 [python] [ERROR] ython was not f
+21-12-2020 14:01:38.584 [python] [ERROR] ound; r
+21-12-2020 14:01:38.584 [python] [ERROR] un w
+21-12-2020 14:01:38.584 [python] [ERROR] ithou
+21-12-2020 14:01:38.584 [python] [ERROR] t ar
+21-12-2020 14:01:38.584 [python] [ERROR] gumen
+21-12-2020 14:01:38.584 [python] [ERROR] ts t
+21-12-2020 14:01:38.584 [python] [ERROR] o inst
+21-12-2020 14:01:38.584 [python] [ERROR] all f
+21-12-2020 14:01:38.584 [python] [ERROR] rom t
+21-12-2020 14:01:38.584 [python] [ERROR] he M
+21-12-2020 14:01:38.584 [python] [ERROR] icros
+21-12-2020 14:01:38.584 [python] [ERROR] oft
+21-12-2020 14:01:38.584 [python] [ERROR] Store
+21-12-2020 14:01:38.584 [python] [ERROR] , or
+21-12-2020 14:01:38.584 [python] [ERROR] disa
+21-12-2020 14:01:38.584 [python] [ERROR] ble
+21-12-2020 14:01:38.585 [python] [ERROR] this s
+21-12-2020 14:01:38.585 [python] [ERROR] hortc
+21-12-2020 14:01:38.585 [python] [ERROR] ut fro
+21-12-2020 14:01:38.585 [python] [ERROR] m Se
+21-12-2020 14:01:38.585 [python] [ERROR] ttings
+21-12-2020 14:01:38.585 [python] [ERROR] > M
+21-12-2020 14:01:38.585 [python] [ERROR] anage
+21-12-2020 14:01:38.585 [python] [ERROR] App
+21-12-2020 14:01:38.585 [python] [ERROR] Exec
+21-12-2020 14:01:38.585 [python] [ERROR] utio
+21-12-2020 14:01:38.585 [python] [ERROR] n Ali
+21-12-2020 14:01:38.585 [python] [ERROR] ases.
+21-12-2020 14:01:38.604 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 14:01:38.604 [Gauge] [DEBUG] Gauge could not initialize. Install 'ms-python.python' extension for code insights. For more information see[Problems](command:workbench.actions.view.problems), check logs.[Troubleshooting](https://docs.gauge.org/troubleshooting.html?language=javascript&ide=vscode#gauge-could-not-initialize-for-more-information-see-problems)
+Some of the gauge lsp feature will not work as expected.
+21-12-2020 14:01:38.604 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+21-12-2020 14:01:38.655 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+21-12-2020 14:04:52.082 [Gauge] [INFO] Connection closed
+21-12-2020 14:04:57.329 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs
+21-12-2020 14:04:57.330 [Gauge] [DEBUG] Found 10 files
+21-12-2020 14:04:57.330 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs\concepts
+21-12-2020 14:04:57.331 [Gauge] [DEBUG] Found 11 files
+21-12-2020 14:04:57.356 [Gauge] [INFO] Initializing concepts cache with 11 concepts
+21-12-2020 14:04:57.356 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_compressed_configuration.cpt
+21-12-2020 14:04:57.356 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_safe_device.cpt
+21-12-2020 14:04:57.356 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_configuration.cpt
+21-12-2020 14:04:57.356 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_io.cpt
+21-12-2020 14:04:57.356 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset.cpt
+21-12-2020 14:04:57.356 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset_ssr.cpt
+21-12-2020 14:04:57.356 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\remove_configuration.cpt
+21-12-2020 14:04:57.356 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 14:04:57.356 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_safe_io.cpt
+21-12-2020 14:04:57.356 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\donwload_configuration_lookup.cpt
+21-12-2020 14:04:57.356 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\verify_pc_connection.cpt
+21-12-2020 14:04:57.395 [Gauge] [INFO] Initializing specs cache with 9 specs
+21-12-2020 14:04:57.395 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\managed-switch.spec
+21-12-2020 14:04:57.395 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\ssr-demo.spec
+21-12-2020 14:04:57.395 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\osprey.spec
+21-12-2020 14:04:57.395 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\test.spec
+21-12-2020 14:04:57.395 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\fanuc.spec
+21-12-2020 14:04:57.395 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\old.spec
+21-12-2020 14:04:57.395 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\eip-demo.spec
+21-12-2020 14:04:57.395 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\opc-demo.spec
+21-12-2020 14:04:57.395 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\hawk.spec
+21-12-2020 14:04:57.395 [Gauge] [INFO] Initializing steps cache with 20 steps
+21-12-2020 14:04:57.399 [Gauge] [INFO] Starting language runner
+21-12-2020 14:04:58.201 [python] [ERROR] P
+21-12-2020 14:04:58.201 [python] [ERROR] ython was not foun
+21-12-2020 14:04:58.201 [python] [ERROR] d;
+21-12-2020 14:04:58.201 [python] [ERROR] run
+21-12-2020 14:04:58.201 [python] [ERROR] wi
+21-12-2020 14:04:58.201 [python] [ERROR] thou
+21-12-2020 14:04:58.201 [python] [ERROR] t a
+21-12-2020 14:04:58.201 [python] [ERROR] rgu
+21-12-2020 14:04:58.201 [python] [ERROR] men
+21-12-2020 14:04:58.201 [python] [ERROR] ts t
+21-12-2020 14:04:58.201 [python] [ERROR] o i
+21-12-2020 14:04:58.201 [python] [ERROR] nsta
+21-12-2020 14:04:58.201 [python] [ERROR] ll
+21-12-2020 14:04:58.201 [python] [ERROR] from
+21-12-2020 14:04:58.201 [python] [ERROR] th
+21-12-2020 14:04:58.201 [python] [ERROR] e M
+21-12-2020 14:04:58.201 [python] [ERROR] icr
+21-12-2020 14:04:58.201 [python] [ERROR] oso
+21-12-2020 14:04:58.201 [python] [ERROR] ft
+21-12-2020 14:04:58.202 [python] [ERROR] Stor
+21-12-2020 14:04:58.202 [python] [ERROR] e, or disabl
+21-12-2020 14:04:58.202 [python] [ERROR] e th
+21-12-2020 14:04:58.202 [python] [ERROR] is
+21-12-2020 14:04:58.202 [python] [ERROR] sho
+21-12-2020 14:04:58.202 [python] [ERROR] rtc
+21-12-2020 14:04:58.202 [python] [ERROR] ut f
+21-12-2020 14:04:58.202 [python] [ERROR] rom
+21-12-2020 14:04:58.202 [python] [ERROR] Settings >
+21-12-2020 14:04:58.202 [python] [ERROR] Manage
+21-12-2020 14:04:58.202 [python] [ERROR] App Exe
+21-12-2020 14:04:58.202 [python] [ERROR] cution
+21-12-2020 14:04:58.202 [python] [ERROR] Alias
+21-12-2020 14:04:58.202 [python] [ERROR] es.
+21-12-2020 14:04:58.726 [python] [ERROR] P
+21-12-2020 14:04:58.726 [python] [ERROR] ython was not found; r
+21-12-2020 14:04:58.726 [python] [ERROR] un wi
+21-12-2020 14:04:58.726 [python] [ERROR] thout a
+21-12-2020 14:04:58.726 [python] [ERROR] rgume
+21-12-2020 14:04:58.726 [python] [ERROR] nts t
+21-12-2020 14:04:58.726 [python] [ERROR] o i
+21-12-2020 14:04:58.726 [python] [ERROR] nsta
+21-12-2020 14:04:58.726 [python] [ERROR] ll fr
+21-12-2020 14:04:58.726 [python] [ERROR] om th
+21-12-2020 14:04:58.726 [python] [ERROR] e Mi
+21-12-2020 14:04:58.726 [python] [ERROR] croso
+21-12-2020 14:04:58.726 [python] [ERROR] ft
+21-12-2020 14:04:58.726 [python] [ERROR] Stor
+21-12-2020 14:04:58.726 [python] [ERROR] e,
+21-12-2020 14:04:58.726 [python] [ERROR] or
+21-12-2020 14:04:58.726 [python] [ERROR] dis
+21-12-2020 14:04:58.726 [python] [ERROR] abl
+21-12-2020 14:04:58.726 [python] [ERROR] e t
+21-12-2020 14:04:58.726 [python] [ERROR] his
+21-12-2020 14:04:58.726 [python] [ERROR] sh
+21-12-2020 14:04:58.726 [python] [ERROR] ort
+21-12-2020 14:04:58.726 [python] [ERROR] cut
+21-12-2020 14:04:58.726 [python] [ERROR] fr
+21-12-2020 14:04:58.726 [python] [ERROR] om
+21-12-2020 14:04:58.726 [python] [ERROR] Settings > M
+21-12-2020 14:04:58.726 [python] [ERROR] anag
+21-12-2020 14:04:58.726 [python] [ERROR] e Ap
+21-12-2020 14:04:58.726 [python] [ERROR] p E
+21-12-2020 14:04:58.726 [python] [ERROR] xec
+21-12-2020 14:04:58.726 [python] [ERROR] uti
+21-12-2020 14:04:58.726 [python] [ERROR] on
+21-12-2020 14:04:58.726 [python] [ERROR] Ali
+21-12-2020 14:04:58.726 [python] [ERROR] ase
+21-12-2020 14:04:58.726 [python] [ERROR] s.
+21-12-2020 14:04:58.746 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 14:04:58.746 [Gauge] [DEBUG] Gauge could not initialize. Install 'ms-python.python' extension for code insights. For more information see[Problems](command:workbench.actions.view.problems), check logs.[Troubleshooting](https://docs.gauge.org/troubleshooting.html?language=javascript&ide=vscode#gauge-could-not-initialize-for-more-information-see-problems)
+Some of the gauge lsp feature will not work as expected.
+21-12-2020 14:04:58.746 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+21-12-2020 14:04:58.762 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+21-12-2020 14:06:08.633 [Gauge] [DEBUG] request #3: textDocument/documentSymbol: parsing failed for c:\Work_stuff\gauge_framework_project\specs\fanuc.spec. [[ParseError] c:\Work_stuff\gauge_framework_project\specs\fanuc.spec:1 Spec does not have any elements => '']
+21-12-2020 14:06:11.585 [Gauge] [DEBUG] request #9: textDocument/documentSymbol: parsing failed for c:\Work_stuff\gauge_framework_project\specs\fanuc.spec. [[ParseError] c:\Work_stuff\gauge_framework_project\specs\fanuc.spec:1 Spec does not have any elements => '']
+21-12-2020 14:07:11.050 [Gauge] [INFO] Concept file added / modified: c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 14:07:11.054 [Gauge] [INFO] Concept file added / modified: c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 14:07:11.054 [Gauge] [ERROR] Parse failure: [[ParseError] c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt:14 Scenario Heading is not allowed in concept file => '## Connect to device <index>' [ParseError] c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt:16 Step is not defined inside a concept heading => 'Init' [ParseError] c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt:17 Step is not defined inside a concept heading => 'Enum drivers <index>' [ParseError] c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt:18 Step is not defined inside a concept heading => 'Open interface <index>']
+21-12-2020 14:07:14.310 [Gauge] [INFO] Concept file added / modified: c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 14:07:14.314 [Gauge] [INFO] Concept file added / modified: c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 14:07:31.518 [Gauge] [INFO] Connection closed
+21-12-2020 14:07:35.027 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs
+21-12-2020 14:07:35.028 [Gauge] [DEBUG] Found 10 files
+21-12-2020 14:07:35.028 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs\concepts
+21-12-2020 14:07:35.028 [Gauge] [DEBUG] Found 11 files
+21-12-2020 14:07:35.045 [Gauge] [INFO] Initializing concepts cache with 11 concepts
+21-12-2020 14:07:35.045 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 14:07:35.045 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_safe_device.cpt
+21-12-2020 14:07:35.045 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_compressed_configuration.cpt
+21-12-2020 14:07:35.045 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset.cpt
+21-12-2020 14:07:35.045 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\remove_configuration.cpt
+21-12-2020 14:07:35.045 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_safe_io.cpt
+21-12-2020 14:07:35.045 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\donwload_configuration_lookup.cpt
+21-12-2020 14:07:35.045 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_configuration.cpt
+21-12-2020 14:07:35.045 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset_ssr.cpt
+21-12-2020 14:07:35.045 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_io.cpt
+21-12-2020 14:07:35.045 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\verify_pc_connection.cpt
+21-12-2020 14:07:35.077 [Gauge] [INFO] Initializing specs cache with 9 specs
+21-12-2020 14:07:35.077 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\managed-switch.spec
+21-12-2020 14:07:35.077 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\old.spec
+21-12-2020 14:07:35.077 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\opc-demo.spec
+21-12-2020 14:07:35.078 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\test.spec
+21-12-2020 14:07:35.078 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\hawk.spec
+21-12-2020 14:07:35.078 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\ssr-demo.spec
+21-12-2020 14:07:35.078 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\eip-demo.spec
+21-12-2020 14:07:35.078 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\osprey.spec
+21-12-2020 14:07:35.078 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\fanuc.spec
+21-12-2020 14:07:35.078 [Gauge] [INFO] Initializing steps cache with 20 steps
+21-12-2020 14:07:35.080 [Gauge] [INFO] Starting language runner
+21-12-2020 14:07:35.573 [python] [ERROR] P
+21-12-2020 14:07:35.573 [python] [ERROR] ython was not found
+21-12-2020 14:07:35.573 [python] [ERROR] ; ru
+21-12-2020 14:07:35.573 [python] [ERROR] n wit
+21-12-2020 14:07:35.573 [python] [ERROR] hout a
+21-12-2020 14:07:35.573 [python] [ERROR] rgum
+21-12-2020 14:07:35.573 [python] [ERROR] ents
+21-12-2020 14:07:35.573 [python] [ERROR] to i
+21-12-2020 14:07:35.573 [python] [ERROR] nsta
+21-12-2020 14:07:35.573 [python] [ERROR] ll f
+21-12-2020 14:07:35.573 [python] [ERROR] rom t
+21-12-2020 14:07:35.573 [python] [ERROR] he M
+21-12-2020 14:07:35.573 [python] [ERROR] icros
+21-12-2020 14:07:35.573 [python] [ERROR] oft
+21-12-2020 14:07:35.573 [python] [ERROR] Store
+21-12-2020 14:07:35.573 [python] [ERROR] , or
+21-12-2020 14:07:35.573 [python] [ERROR] disab
+21-12-2020 14:07:35.573 [python] [ERROR] le t
+21-12-2020 14:07:35.573 [python] [ERROR] his s
+21-12-2020 14:07:35.573 [python] [ERROR] hort
+21-12-2020 14:07:35.573 [python] [ERROR] cut f
+21-12-2020 14:07:35.573 [python] [ERROR] rom
+21-12-2020 14:07:35.573 [python] [ERROR] Setti
+21-12-2020 14:07:35.573 [python] [ERROR] ngs
+21-12-2020 14:07:35.573 [python] [ERROR] > Man
+21-12-2020 14:07:35.573 [python] [ERROR] age
+21-12-2020 14:07:35.573 [python] [ERROR] App
+21-12-2020 14:07:35.573 [python] [ERROR] Exec
+21-12-2020 14:07:35.573 [python] [ERROR] utio
+21-12-2020 14:07:35.573 [python] [ERROR] n Al
+21-12-2020 14:07:35.573 [python] [ERROR] iases
+21-12-2020 14:07:35.573 [python] [ERROR] .
+21-12-2020 14:07:36.039 [python] [ERROR] P
+21-12-2020 14:07:36.039 [python] [ERROR] ython was not fou
+21-12-2020 14:07:36.045 [python] [ERROR] n
+21-12-2020 14:07:36.045 [python] [ERROR] d; run with
+21-12-2020 14:07:36.045 [python] [ERROR] out ar
+21-12-2020 14:07:36.045 [python] [ERROR] gument
+21-12-2020 14:07:36.045 [python] [ERROR] s to
+21-12-2020 14:07:36.045 [python] [ERROR] inst
+21-12-2020 14:07:36.045 [python] [ERROR] all f
+21-12-2020 14:07:36.045 [python] [ERROR] rom t
+21-12-2020 14:07:36.045 [python] [ERROR] he Microsoft Store
+21-12-2020 14:07:36.045 [python] [ERROR] , or d
+21-12-2020 14:07:36.045 [python] [ERROR] isabl
+21-12-2020 14:07:36.045 [python] [ERROR] e thi
+21-12-2020 14:07:36.045 [python] [ERROR] s sh
+21-12-2020 14:07:36.045 [python] [ERROR] ortcu
+21-12-2020 14:07:36.045 [python] [ERROR] t fr
+21-12-2020 14:07:36.045 [python] [ERROR] om Se
+21-12-2020 14:07:36.045 [python] [ERROR] ttin
+21-12-2020 14:07:36.045 [python] [ERROR] gs >
+21-12-2020 14:07:36.045 [python] [ERROR] Mana
+21-12-2020 14:07:36.045 [python] [ERROR] ge Ap
+21-12-2020 14:07:36.045 [python] [ERROR] p Exe
+21-12-2020 14:07:36.045 [python] [ERROR] cutio
+21-12-2020 14:07:36.045 [python] [ERROR] n Al
+21-12-2020 14:07:36.045 [python] [ERROR] iases
+21-12-2020 14:07:36.046 [python] [ERROR] .
+21-12-2020 14:07:36.064 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 14:07:36.064 [Gauge] [DEBUG] Gauge could not initialize. Install 'ms-python.python' extension for code insights. For more information see[Problems](command:workbench.actions.view.problems), check logs.[Troubleshooting](https://docs.gauge.org/troubleshooting.html?language=javascript&ide=vscode#gauge-could-not-initialize-for-more-information-see-problems)
+Some of the gauge lsp feature will not work as expected.
+21-12-2020 14:07:36.064 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+21-12-2020 14:07:36.750 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+21-12-2020 14:10:43.950 [Gauge] [INFO] Concept file added / modified: c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 14:10:43.953 [Gauge] [INFO] Concept file added / modified: c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 14:10:43.954 [Gauge] [ERROR] Parse failure: [[ParseError] c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt:16 Step is not defined inside a concept heading => 'Init' [ParseError] c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt:17 Step is not defined inside a concept heading => 'Enum drivers <index>' [ParseError] c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt:18 Step is not defined inside a concept heading => 'Open interface <index>']
+21-12-2020 14:10:47.640 [Gauge] [INFO] Concept file added / modified: c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 14:10:47.643 [Gauge] [INFO] Concept file added / modified: c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 14:10:50.204 [Gauge] [INFO] Concept file added / modified: c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 14:10:50.208 [Gauge] [INFO] Concept file added / modified: c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 14:11:04.985 [Gauge] [DEBUG] request #86: textDocument/documentSymbol: parsing failed for c:\Work_stuff\gauge_framework_project\specs\old.spec. [[ParseError] c:\Work_stuff\gauge_framework_project\specs\old.spec:1 Spec heading not found => '' [ParseError] c:\Work_stuff\gauge_framework_project\specs\old.spec:6 Scenario should be defined after the spec heading => '## SSR F-Host' [ParseError] c:\Work_stuff\gauge_framework_project\specs\old.spec:25 Scenario should be defined after the spec heading => '## SSR F-Host OLD' [ParseError] c:\Work_stuff\gauge_framework_project\specs\old.spec:27 Tags can be defined only once per specification => 'Tags: old']
+21-12-2020 14:11:05.161 [Gauge] [DEBUG] request #87: textDocument/codeLens: failed to parse c:\Work_stuff\gauge_framework_project\specs\old.spec
+c:\Work_stuff\gauge_framework_project\specs\old.spec:1 Spec heading not found
+c:\Work_stuff\gauge_framework_project\specs\old.spec:6 Scenario should be defined after the spec heading
+c:\Work_stuff\gauge_framework_project\specs\old.spec:25 Scenario should be defined after the spec heading
+c:\Work_stuff\gauge_framework_project\specs\old.spec:27 Tags can be defined only once per specification
+21-12-2020 14:11:05.483 [Gauge] [DEBUG] request #89: textDocument/documentSymbol: parsing failed for c:\Work_stuff\gauge_framework_project\specs\fanuc.spec. [[ParseError] c:\Work_stuff\gauge_framework_project\specs\fanuc.spec:1 Spec does not have any elements => '']
+21-12-2020 14:15:11.111 [Gauge] [INFO] Connection closed
+21-12-2020 14:15:16.226 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs
+21-12-2020 14:15:16.227 [Gauge] [DEBUG] Found 10 files
+21-12-2020 14:15:16.227 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs\concepts
+21-12-2020 14:15:16.228 [Gauge] [DEBUG] Found 11 files
+21-12-2020 14:15:16.245 [Gauge] [INFO] Initializing concepts cache with 11 concepts
+21-12-2020 14:15:16.245 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset_ssr.cpt
+21-12-2020 14:15:16.245 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_safe_io.cpt
+21-12-2020 14:15:16.245 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\verify_pc_connection.cpt
+21-12-2020 14:15:16.245 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_compressed_configuration.cpt
+21-12-2020 14:15:16.245 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset.cpt
+21-12-2020 14:15:16.245 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\donwload_configuration_lookup.cpt
+21-12-2020 14:15:16.245 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_configuration.cpt
+21-12-2020 14:15:16.245 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\remove_configuration.cpt
+21-12-2020 14:15:16.245 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_io.cpt
+21-12-2020 14:15:16.245 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 14:15:16.245 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_safe_device.cpt
+21-12-2020 14:15:16.265 [Gauge] [INFO] Initializing specs cache with 9 specs
+21-12-2020 14:15:16.266 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\managed-switch.spec
+21-12-2020 14:15:16.266 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\eip-demo.spec
+21-12-2020 14:15:16.266 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\test.spec
+21-12-2020 14:15:16.266 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\fanuc.spec
+21-12-2020 14:15:16.266 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\hawk.spec
+21-12-2020 14:15:16.266 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\ssr-demo.spec
+21-12-2020 14:15:16.266 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\old.spec
+21-12-2020 14:15:16.266 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\opc-demo.spec
+21-12-2020 14:15:16.266 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\osprey.spec
+21-12-2020 14:15:16.266 [Gauge] [INFO] Initializing steps cache with 20 steps
+21-12-2020 14:15:16.268 [Gauge] [INFO] Starting language runner
+21-12-2020 14:15:16.964 [python] [ERROR] P
+21-12-2020 14:15:16.964 [python] [ERROR] ython was not fou
+21-12-2020 14:15:16.964 [python] [ERROR] nd; run
+21-12-2020 14:15:16.964 [python] [ERROR] with
+21-12-2020 14:15:16.964 [python] [ERROR] out a
+21-12-2020 14:15:16.964 [python] [ERROR] rgume
+21-12-2020 14:15:16.964 [python] [ERROR] nts t
+21-12-2020 14:15:16.964 [python] [ERROR] o in
+21-12-2020 14:15:16.965 [python] [ERROR] stall
+21-12-2020 14:15:16.965 [python] [ERROR] fr
+21-12-2020 14:15:16.965 [python] [ERROR] om th
+21-12-2020 14:15:16.965 [python] [ERROR] e Mi
+21-12-2020 14:15:16.965 [python] [ERROR] crosoft Store, or d
+21-12-2020 14:15:16.965 [python] [ERROR] isable
+21-12-2020 14:15:16.965 [python] [ERROR] this
+21-12-2020 14:15:16.965 [python] [ERROR] shor
+21-12-2020 14:15:16.965 [python] [ERROR] tcut
+21-12-2020 14:15:16.965 [python] [ERROR] from
+21-12-2020 14:15:16.965 [python] [ERROR] Sett
+21-12-2020 14:15:16.965 [python] [ERROR] ings
+21-12-2020 14:15:16.965 [python] [ERROR] > Ma
+21-12-2020 14:15:16.965 [python] [ERROR] nage
+21-12-2020 14:15:16.965 [python] [ERROR] App
+21-12-2020 14:15:16.965 [python] [ERROR] Execu
+21-12-2020 14:15:16.965 [python] [ERROR] tion
+21-12-2020 14:15:16.965 [python] [ERROR] Alias
+21-12-2020 14:15:16.965 [python] [ERROR] es.
+21-12-2020 14:15:17.431 [python] [ERROR] P
+21-12-2020 14:15:17.431 [python] [ERROR] ython was not fo
+21-12-2020 14:15:17.431 [python] [ERROR] und; r
+21-12-2020 14:15:17.431 [python] [ERROR] un wit
+21-12-2020 14:15:17.431 [python] [ERROR] hout ar
+21-12-2020 14:15:17.431 [python] [ERROR] gumen
+21-12-2020 14:15:17.431 [python] [ERROR] ts to in
+21-12-2020 14:15:17.431 [python] [ERROR] stall fr
+21-12-2020 14:15:17.431 [python] [ERROR] om the M
+21-12-2020 14:15:17.431 [python] [ERROR] icros
+21-12-2020 14:15:17.431 [python] [ERROR] oft St
+21-12-2020 14:15:17.431 [python] [ERROR] ore,
+21-12-2020 14:15:17.431 [python] [ERROR] or dis
+21-12-2020 14:15:17.431 [python] [ERROR] able
+21-12-2020 14:15:17.431 [python] [ERROR] this s
+21-12-2020 14:15:17.431 [python] [ERROR] hortc
+21-12-2020 14:15:17.431 [python] [ERROR] ut fr
+21-12-2020 14:15:17.431 [python] [ERROR] om Set
+21-12-2020 14:15:17.431 [python] [ERROR] tings
+21-12-2020 14:15:17.431 [python] [ERROR] > Ma
+21-12-2020 14:15:17.431 [python] [ERROR] nage A
+21-12-2020 14:15:17.431 [python] [ERROR] pp Ex
+21-12-2020 14:15:17.431 [python] [ERROR] ecuti
+21-12-2020 14:15:17.431 [python] [ERROR] on Ali
+21-12-2020 14:15:17.432 [python] [ERROR] ases.
+21-12-2020 14:15:17.452 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 14:15:17.452 [Gauge] [DEBUG] Gauge could not initialize. Install 'ms-python.python' extension for code insights. For more information see[Problems](command:workbench.actions.view.problems), check logs.[Troubleshooting](https://docs.gauge.org/troubleshooting.html?language=javascript&ide=vscode#gauge-could-not-initialize-for-more-information-see-problems)
+Some of the gauge lsp feature will not work as expected.
+21-12-2020 14:15:17.452 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+21-12-2020 14:15:17.468 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+21-12-2020 14:20:22.109 [Gauge] [INFO] Connection closed
+21-12-2020 14:20:25.027 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs
+21-12-2020 14:20:25.029 [Gauge] [DEBUG] Found 10 files
+21-12-2020 14:20:25.029 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs\concepts
+21-12-2020 14:20:25.029 [Gauge] [DEBUG] Found 11 files
+21-12-2020 14:20:25.049 [Gauge] [INFO] Initializing concepts cache with 11 concepts
+21-12-2020 14:20:25.049 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\donwload_configuration_lookup.cpt
+21-12-2020 14:20:25.049 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset_ssr.cpt
+21-12-2020 14:20:25.050 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\remove_configuration.cpt
+21-12-2020 14:20:25.050 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_io.cpt
+21-12-2020 14:20:25.050 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_configuration.cpt
+21-12-2020 14:20:25.050 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset.cpt
+21-12-2020 14:20:25.050 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\verify_pc_connection.cpt
+21-12-2020 14:20:25.050 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_safe_device.cpt
+21-12-2020 14:20:25.050 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_safe_io.cpt
+21-12-2020 14:20:25.050 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 14:20:25.050 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_compressed_configuration.cpt
+21-12-2020 14:20:25.079 [Gauge] [INFO] Initializing specs cache with 9 specs
+21-12-2020 14:20:25.079 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\eip-demo.spec
+21-12-2020 14:20:25.079 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\ssr-demo.spec
+21-12-2020 14:20:25.080 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\test.spec
+21-12-2020 14:20:25.080 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\hawk.spec
+21-12-2020 14:20:25.080 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\old.spec
+21-12-2020 14:20:25.080 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\opc-demo.spec
+21-12-2020 14:20:25.080 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\managed-switch.spec
+21-12-2020 14:20:25.080 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\osprey.spec
+21-12-2020 14:20:25.080 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\fanuc.spec
+21-12-2020 14:20:25.080 [Gauge] [INFO] Initializing steps cache with 20 steps
+21-12-2020 14:20:25.082 [Gauge] [INFO] Starting language runner
+21-12-2020 14:20:25.666 [python] [ERROR] P
+21-12-2020 14:20:25.666 [python] [ERROR] ython was not found; run
+21-12-2020 14:20:25.666 [python] [ERROR] without argume
+21-12-2020 14:20:25.666 [python] [ERROR] nts to
+21-12-2020 14:20:25.666 [python] [ERROR] inst
+21-12-2020 14:20:25.666 [python] [ERROR] all fr
+21-12-2020 14:20:25.666 [python] [ERROR] om t
+21-12-2020 14:20:25.666 [python] [ERROR] he Mi
+21-12-2020 14:20:25.666 [python] [ERROR] cros
+21-12-2020 14:20:25.666 [python] [ERROR] oft S
+21-12-2020 14:20:25.666 [python] [ERROR] tore
+21-12-2020 14:20:25.666 [python] [ERROR] , or
+21-12-2020 14:20:25.666 [python] [ERROR] disa
+21-12-2020 14:20:25.666 [python] [ERROR] ble t
+21-12-2020 14:20:25.666 [python] [ERROR] his
+21-12-2020 14:20:25.666 [python] [ERROR] short
+21-12-2020 14:20:25.666 [python] [ERROR] cut
+21-12-2020 14:20:25.666 [python] [ERROR] from
+21-12-2020 14:20:25.666 [python] [ERROR] Setti
+21-12-2020 14:20:25.666 [python] [ERROR] ngs >
+21-12-2020 14:20:25.666 [python] [ERROR] Man
+21-12-2020 14:20:25.666 [python] [ERROR] age A
+21-12-2020 14:20:25.666 [python] [ERROR] pp E
+21-12-2020 14:20:25.666 [python] [ERROR] xecut
+21-12-2020 14:20:25.666 [python] [ERROR] ion Ali
+21-12-2020 14:20:25.666 [python] [ERROR] ases.
+21-12-2020 14:20:26.137 [python] [ERROR] P
+21-12-2020 14:20:26.137 [python] [ERROR] ython was not found; run without a
+21-12-2020 14:20:26.137 [python] [ERROR] rgume
+21-12-2020 14:20:26.137 [python] [ERROR] nts to
+21-12-2020 14:20:26.137 [python] [ERROR] ins
+21-12-2020 14:20:26.137 [python] [ERROR] tall
+21-12-2020 14:20:26.137 [python] [ERROR] from
+21-12-2020 14:20:26.138 [python] [ERROR] the Mic
+21-12-2020 14:20:26.138 [python] [ERROR] rosof
+21-12-2020 14:20:26.138 [python] [ERROR] t Store
+21-12-2020 14:20:26.138 [python] [ERROR] , or d
+21-12-2020 14:20:26.138 [python] [ERROR] isable thi
+21-12-2020 14:20:26.138 [python] [ERROR] s shor
+21-12-2020 14:20:26.138 [python] [ERROR] tcut f
+21-12-2020 14:20:26.138 [python] [ERROR] rom
+21-12-2020 14:20:26.138 [python] [ERROR] Setti
+21-12-2020 14:20:26.138 [python] [ERROR] ngs
+21-12-2020 14:20:26.138 [python] [ERROR] > Man
+21-12-2020 14:20:26.138 [python] [ERROR] age
+21-12-2020 14:20:26.138 [python] [ERROR] App E
+21-12-2020 14:20:26.138 [python] [ERROR] xecu
+21-12-2020 14:20:26.138 [python] [ERROR] tion
+21-12-2020 14:20:26.138 [python] [ERROR] Aliases.
+21-12-2020 14:20:26.157 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 14:20:26.157 [Gauge] [DEBUG] Gauge could not initialize. Install 'ms-python.python' extension for code insights. For more information see[Problems](command:workbench.actions.view.problems), check logs.[Troubleshooting](https://docs.gauge.org/troubleshooting.html?language=javascript&ide=vscode#gauge-could-not-initialize-for-more-information-see-problems)
+Some of the gauge lsp feature will not work as expected.
+21-12-2020 14:20:26.157 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+21-12-2020 14:20:26.173 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+21-12-2020 14:22:35.094 [Gauge] [INFO] Connection closed
+21-12-2020 14:22:38.047 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs
+21-12-2020 14:22:38.048 [Gauge] [DEBUG] Found 10 files
+21-12-2020 14:22:38.049 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs\concepts
+21-12-2020 14:22:38.049 [Gauge] [DEBUG] Found 11 files
+21-12-2020 14:22:38.071 [Gauge] [INFO] Initializing concepts cache with 11 concepts
+21-12-2020 14:22:38.071 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset_ssr.cpt
+21-12-2020 14:22:38.071 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 14:22:38.071 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_compressed_configuration.cpt
+21-12-2020 14:22:38.071 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_safe_device.cpt
+21-12-2020 14:22:38.071 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\donwload_configuration_lookup.cpt
+21-12-2020 14:22:38.071 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_io.cpt
+21-12-2020 14:22:38.071 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset.cpt
+21-12-2020 14:22:38.071 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\remove_configuration.cpt
+21-12-2020 14:22:38.071 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_configuration.cpt
+21-12-2020 14:22:38.071 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_safe_io.cpt
+21-12-2020 14:22:38.071 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\verify_pc_connection.cpt
+21-12-2020 14:22:38.102 [Gauge] [INFO] Initializing specs cache with 9 specs
+21-12-2020 14:22:38.102 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\ssr-demo.spec
+21-12-2020 14:22:38.102 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\hawk.spec
+21-12-2020 14:22:38.102 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\eip-demo.spec
+21-12-2020 14:22:38.102 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\opc-demo.spec
+21-12-2020 14:22:38.102 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\osprey.spec
+21-12-2020 14:22:38.102 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\fanuc.spec
+21-12-2020 14:22:38.102 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\old.spec
+21-12-2020 14:22:38.102 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\managed-switch.spec
+21-12-2020 14:22:38.102 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\test.spec
+21-12-2020 14:22:38.102 [Gauge] [INFO] Initializing steps cache with 20 steps
+21-12-2020 14:22:38.106 [Gauge] [INFO] Starting language runner
+21-12-2020 14:22:38.701 [python] [ERROR] P
+21-12-2020 14:22:38.701 [python] [ERROR] ython was not found; r
+21-12-2020 14:22:38.701 [python] [ERROR] un without arguments
+21-12-2020 14:22:38.701 [python] [ERROR] to inst
+21-12-2020 14:22:38.701 [python] [ERROR] all f
+21-12-2020 14:22:38.701 [python] [ERROR] rom t
+21-12-2020 14:22:38.701 [python] [ERROR] he M
+21-12-2020 14:22:38.701 [python] [ERROR] icros
+21-12-2020 14:22:38.701 [python] [ERROR] oft
+21-12-2020 14:22:38.701 [python] [ERROR] Store
+21-12-2020 14:22:38.701 [python] [ERROR] , or
+21-12-2020 14:22:38.701 [python] [ERROR] disa
+21-12-2020 14:22:38.701 [python] [ERROR] ble t
+21-12-2020 14:22:38.701 [python] [ERROR] his s
+21-12-2020 14:22:38.701 [python] [ERROR] hort
+21-12-2020 14:22:38.701 [python] [ERROR] cut
+21-12-2020 14:22:38.701 [python] [ERROR] from
+21-12-2020 14:22:38.701 [python] [ERROR] Setti
+21-12-2020 14:22:38.701 [python] [ERROR] ngs
+21-12-2020 14:22:38.701 [python] [ERROR] > Man
+21-12-2020 14:22:38.701 [python] [ERROR] age
+21-12-2020 14:22:38.701 [python] [ERROR] App E
+21-12-2020 14:22:38.701 [python] [ERROR] xecu
+21-12-2020 14:22:38.701 [python] [ERROR] tion A
+21-12-2020 14:22:38.701 [python] [ERROR] liase
+21-12-2020 14:22:38.701 [python] [ERROR] s.
+21-12-2020 14:22:39.181 [python] [ERROR] P
+21-12-2020 14:22:39.181 [python] [ERROR] ython was not fo
+21-12-2020 14:22:39.181 [python] [ERROR] und; ru
+21-12-2020 14:22:39.181 [python] [ERROR] n wit
+21-12-2020 14:22:39.181 [python] [ERROR] hout
+21-12-2020 14:22:39.181 [python] [ERROR] argum
+21-12-2020 14:22:39.181 [python] [ERROR] ents
+21-12-2020 14:22:39.181 [python] [ERROR] to
+21-12-2020 14:22:39.181 [python] [ERROR] install
+21-12-2020 14:22:39.182 [python] [ERROR] fro
+21-12-2020 14:22:39.182 [python] [ERROR] m th
+21-12-2020 14:22:39.182 [python] [ERROR] e M
+21-12-2020 14:22:39.182 [python] [ERROR] icr
+21-12-2020 14:22:39.182 [python] [ERROR] oso
+21-12-2020 14:22:39.182 [python] [ERROR] ft
+21-12-2020 14:22:39.182 [python] [ERROR] Sto
+21-12-2020 14:22:39.182 [python] [ERROR] re,
+21-12-2020 14:22:39.182 [python] [ERROR] or
+21-12-2020 14:22:39.182 [python] [ERROR] di
+21-12-2020 14:22:39.182 [python] [ERROR] sab
+21-12-2020 14:22:39.182 [python] [ERROR] le
+21-12-2020 14:22:39.182 [python] [ERROR] thi
+21-12-2020 14:22:39.182 [python] [ERROR] s s
+21-12-2020 14:22:39.182 [python] [ERROR] hor
+21-12-2020 14:22:39.182 [python] [ERROR] tcu
+21-12-2020 14:22:39.182 [python] [ERROR] t f
+21-12-2020 14:22:39.182 [python] [ERROR] rom
+21-12-2020 14:22:39.182 [python] [ERROR] Se
+21-12-2020 14:22:39.182 [python] [ERROR] ttin
+21-12-2020 14:22:39.182 [python] [ERROR] gs
+21-12-2020 14:22:39.182 [python] [ERROR] > M
+21-12-2020 14:22:39.182 [python] [ERROR] ana
+21-12-2020 14:22:39.182 [python] [ERROR] ge
+21-12-2020 14:22:39.182 [python] [ERROR] App
+21-12-2020 14:22:39.182 [python] [ERROR] Ex
+21-12-2020 14:22:39.182 [python] [ERROR] ecu
+21-12-2020 14:22:39.182 [python] [ERROR] tio
+21-12-2020 14:22:39.182 [python] [ERROR] n A
+21-12-2020 14:22:39.182 [python] [ERROR] lia
+21-12-2020 14:22:39.182 [python] [ERROR] ses
+21-12-2020 14:22:39.182 [python] [ERROR] .
+21-12-2020 14:22:39.203 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 14:22:39.203 [Gauge] [DEBUG] Gauge could not initialize. Install 'ms-python.python' extension for code insights. For more information see[Problems](command:workbench.actions.view.problems), check logs.[Troubleshooting](https://docs.gauge.org/troubleshooting.html?language=javascript&ide=vscode#gauge-could-not-initialize-for-more-information-see-problems)
+Some of the gauge lsp feature will not work as expected.
+21-12-2020 14:22:39.203 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+21-12-2020 14:22:39.219 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+21-12-2020 14:23:17.079 [Gauge] [INFO] Connection closed
+21-12-2020 14:24:06.077 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs
+21-12-2020 14:24:06.077 [Gauge] [DEBUG] Found 10 files
+21-12-2020 14:24:06.078 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs\concepts
+21-12-2020 14:24:06.078 [Gauge] [DEBUG] Found 11 files
+21-12-2020 14:24:06.101 [Gauge] [INFO] Initializing concepts cache with 11 concepts
+21-12-2020 14:24:06.101 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 14:24:06.102 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_compressed_configuration.cpt
+21-12-2020 14:24:06.102 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\remove_configuration.cpt
+21-12-2020 14:24:06.102 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_io.cpt
+21-12-2020 14:24:06.102 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\verify_pc_connection.cpt
+21-12-2020 14:24:06.102 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\donwload_configuration_lookup.cpt
+21-12-2020 14:24:06.102 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_configuration.cpt
+21-12-2020 14:24:06.102 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset.cpt
+21-12-2020 14:24:06.102 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset_ssr.cpt
+21-12-2020 14:24:06.102 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_safe_io.cpt
+21-12-2020 14:24:06.102 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_safe_device.cpt
+21-12-2020 14:24:06.131 [Gauge] [INFO] Initializing specs cache with 9 specs
+21-12-2020 14:24:06.131 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\ssr-demo.spec
+21-12-2020 14:24:06.131 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\test.spec
+21-12-2020 14:24:06.131 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\osprey.spec
+21-12-2020 14:24:06.131 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\fanuc.spec
+21-12-2020 14:24:06.131 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\old.spec
+21-12-2020 14:24:06.132 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\eip-demo.spec
+21-12-2020 14:24:06.132 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\hawk.spec
+21-12-2020 14:24:06.132 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\managed-switch.spec
+21-12-2020 14:24:06.132 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\opc-demo.spec
+21-12-2020 14:24:06.132 [Gauge] [INFO] Initializing steps cache with 20 steps
+21-12-2020 14:24:06.134 [Gauge] [INFO] Starting language runner
+21-12-2020 14:24:06.605 [python] [ERROR] P
+21-12-2020 14:24:06.616 [python] [ERROR] ython was not found; run
+21-12-2020 14:24:06.616 [python] [ERROR] without a
+21-12-2020 14:24:06.616 [python] [ERROR] rgume
+21-12-2020 14:24:06.616 [python] [ERROR] nts t
+21-12-2020 14:24:06.616 [python] [ERROR] o ins
+21-12-2020 14:24:06.616 [python] [ERROR] tall
+21-12-2020 14:24:06.616 [python] [ERROR] from
+21-12-2020 14:24:06.616 [python] [ERROR] the M
+21-12-2020 14:24:06.616 [python] [ERROR] icros
+21-12-2020 14:24:06.616 [python] [ERROR] oft S
+21-12-2020 14:24:06.616 [python] [ERROR] tore
+21-12-2020 14:24:06.616 [python] [ERROR] , or
+21-12-2020 14:24:06.616 [python] [ERROR] disa
+21-12-2020 14:24:06.616 [python] [ERROR] ble t
+21-12-2020 14:24:06.616 [python] [ERROR] his s
+21-12-2020 14:24:06.616 [python] [ERROR] hortc
+21-12-2020 14:24:06.616 [python] [ERROR] ut fr
+21-12-2020 14:24:06.616 [python] [ERROR] om Se
+21-12-2020 14:24:06.616 [python] [ERROR] tting
+21-12-2020 14:24:06.616 [python] [ERROR] s > M
+21-12-2020 14:24:06.616 [python] [ERROR] anag
+21-12-2020 14:24:06.616 [python] [ERROR] e App
+21-12-2020 14:24:06.616 [python] [ERROR] Exe
+21-12-2020 14:24:06.616 [python] [ERROR] cutio
+21-12-2020 14:24:06.616 [python] [ERROR] n Al
+21-12-2020 14:24:06.617 [python] [ERROR] iases.
+21-12-2020 14:24:07.013 [python] [ERROR] P
+21-12-2020 14:24:07.013 [python] [ERROR] ython was not fou
+21-12-2020 14:24:07.013 [python] [ERROR] nd; run without
+21-12-2020 14:24:07.013 [python] [ERROR] argu
+21-12-2020 14:24:07.013 [python] [ERROR] ments
+21-12-2020 14:24:07.013 [python] [ERROR] to i
+21-12-2020 14:24:07.013 [python] [ERROR] nstal
+21-12-2020 14:24:07.013 [python] [ERROR] l fr
+21-12-2020 14:24:07.013 [python] [ERROR] om th
+21-12-2020 14:24:07.013 [python] [ERROR] e Mi
+21-12-2020 14:24:07.013 [python] [ERROR] croso
+21-12-2020 14:24:07.014 [python] [ERROR] ft S
+21-12-2020 14:24:07.014 [python] [ERROR] tore,
+21-12-2020 14:24:07.014 [python] [ERROR] or d
+21-12-2020 14:24:07.014 [python] [ERROR] isabl
+21-12-2020 14:24:07.014 [python] [ERROR] e thi
+21-12-2020 14:24:07.014 [python] [ERROR] s sho
+21-12-2020 14:24:07.014 [python] [ERROR] rtcu
+21-12-2020 14:24:07.014 [python] [ERROR] t fro
+21-12-2020 14:24:07.014 [python] [ERROR] m Set
+21-12-2020 14:24:07.014 [python] [ERROR] tings
+21-12-2020 14:24:07.014 [python] [ERROR] > M
+21-12-2020 14:24:07.014 [python] [ERROR] anage
+21-12-2020 14:24:07.014 [python] [ERROR] App
+21-12-2020 14:24:07.014 [python] [ERROR] Execu
+21-12-2020 14:24:07.014 [python] [ERROR] tion
+21-12-2020 14:24:07.014 [python] [ERROR] Alias
+21-12-2020 14:24:07.014 [python] [ERROR] es.
+21-12-2020 14:24:07.035 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 14:24:07.035 [Gauge] [DEBUG] Gauge could not initialize. Install 'ms-python.python' extension for code insights. For more information see[Problems](command:workbench.actions.view.problems), check logs.[Troubleshooting](https://docs.gauge.org/troubleshooting.html?language=javascript&ide=vscode#gauge-could-not-initialize-for-more-information-see-problems)
+Some of the gauge lsp feature will not work as expected.
+21-12-2020 14:24:07.035 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+21-12-2020 14:24:07.047 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+21-12-2020 14:38:35.244 [Gauge] [INFO] Connection closed
+21-12-2020 14:38:38.615 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs
+21-12-2020 14:38:38.616 [Gauge] [DEBUG] Found 10 files
+21-12-2020 14:38:38.626 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs\concepts
+21-12-2020 14:38:38.626 [Gauge] [DEBUG] Found 11 files
+21-12-2020 14:38:38.632 [Gauge] [INFO] Initializing concepts cache with 11 concepts
+21-12-2020 14:38:38.632 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset.cpt
+21-12-2020 14:38:38.632 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_io.cpt
+21-12-2020 14:38:38.632 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\verify_pc_connection.cpt
+21-12-2020 14:38:38.632 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 14:38:38.632 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_compressed_configuration.cpt
+21-12-2020 14:38:38.632 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\remove_configuration.cpt
+21-12-2020 14:38:38.632 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\donwload_configuration_lookup.cpt
+21-12-2020 14:38:38.632 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_configuration.cpt
+21-12-2020 14:38:38.632 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset_ssr.cpt
+21-12-2020 14:38:38.632 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_safe_io.cpt
+21-12-2020 14:38:38.632 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_safe_device.cpt
+21-12-2020 14:38:38.676 [Gauge] [INFO] Initializing specs cache with 9 specs
+21-12-2020 14:38:38.676 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\opc-demo.spec
+21-12-2020 14:38:38.676 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\eip-demo.spec
+21-12-2020 14:38:38.676 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\osprey.spec
+21-12-2020 14:38:38.676 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\test.spec
+21-12-2020 14:38:38.676 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\fanuc.spec
+21-12-2020 14:38:38.676 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\managed-switch.spec
+21-12-2020 14:38:38.676 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\old.spec
+21-12-2020 14:38:38.676 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\ssr-demo.spec
+21-12-2020 14:38:38.676 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\hawk.spec
+21-12-2020 14:38:38.677 [Gauge] [INFO] Initializing steps cache with 20 steps
+21-12-2020 14:38:38.680 [Gauge] [INFO] Starting language runner
+21-12-2020 14:38:39.386 [python] [ERROR] P
+21-12-2020 14:38:39.386 [python] [ERROR] ython was not found; run
+21-12-2020 14:38:39.386 [python] [ERROR] withou
+21-12-2020 14:38:39.386 [python] [ERROR] t argu
+21-12-2020 14:38:39.386 [python] [ERROR] ments
+21-12-2020 14:38:39.386 [python] [ERROR] to i
+21-12-2020 14:38:39.386 [python] [ERROR] nsta
+21-12-2020 14:38:39.386 [python] [ERROR] ll fr
+21-12-2020 14:38:39.386 [python] [ERROR] om t
+21-12-2020 14:38:39.386 [python] [ERROR] he Mi
+21-12-2020 14:38:39.386 [python] [ERROR] cros
+21-12-2020 14:38:39.386 [python] [ERROR] oft S
+21-12-2020 14:38:39.386 [python] [ERROR] tore
+21-12-2020 14:38:39.386 [python] [ERROR] , or
+21-12-2020 14:38:39.386 [python] [ERROR] dis
+21-12-2020 14:38:39.386 [python] [ERROR] able
+21-12-2020 14:38:39.386 [python] [ERROR] this
+21-12-2020 14:38:39.386 [python] [ERROR] short
+21-12-2020 14:38:39.386 [python] [ERROR] cut
+21-12-2020 14:38:39.386 [python] [ERROR] from
+21-12-2020 14:38:39.386 [python] [ERROR] Setti
+21-12-2020 14:38:39.386 [python] [ERROR] ngs >
+21-12-2020 14:38:39.386 [python] [ERROR] Man
+21-12-2020 14:38:39.386 [python] [ERROR] age A
+21-12-2020 14:38:39.386 [python] [ERROR] pp E
+21-12-2020 14:38:39.386 [python] [ERROR] xecut
+21-12-2020 14:38:39.386 [python] [ERROR] ion
+21-12-2020 14:38:39.386 [python] [ERROR] Alias
+21-12-2020 14:38:39.386 [python] [ERROR] es.
+21-12-2020 14:38:39.834 [python] [ERROR] P
+21-12-2020 14:38:39.834 [python] [ERROR] ython was not fou
+21-12-2020 14:38:39.834 [python] [ERROR] nd; ru
+21-12-2020 14:38:39.834 [python] [ERROR] n with
+21-12-2020 14:38:39.834 [python] [ERROR] out a
+21-12-2020 14:38:39.834 [python] [ERROR] rgum
+21-12-2020 14:38:39.834 [python] [ERROR] ents
+21-12-2020 14:38:39.834 [python] [ERROR] to i
+21-12-2020 14:38:39.834 [python] [ERROR] nstal
+21-12-2020 14:38:39.834 [python] [ERROR] l fro
+21-12-2020 14:38:39.834 [python] [ERROR] m th
+21-12-2020 14:38:39.834 [python] [ERROR] e Micr
+21-12-2020 14:38:39.834 [python] [ERROR] osof
+21-12-2020 14:38:39.834 [python] [ERROR] t Sto
+21-12-2020 14:38:39.834 [python] [ERROR] re, o
+21-12-2020 14:38:39.834 [python] [ERROR] r di
+21-12-2020 14:38:39.834 [python] [ERROR] sable
+21-12-2020 14:38:39.834 [python] [ERROR] thi
+21-12-2020 14:38:39.834 [python] [ERROR] s sho
+21-12-2020 14:38:39.834 [python] [ERROR] rtcut
+21-12-2020 14:38:39.834 [python] [ERROR] fro
+21-12-2020 14:38:39.834 [python] [ERROR] m Set
+21-12-2020 14:38:39.834 [python] [ERROR] ting
+21-12-2020 14:38:39.834 [python] [ERROR] s > M
+21-12-2020 14:38:39.834 [python] [ERROR] anag
+21-12-2020 14:38:39.834 [python] [ERROR] e App
+21-12-2020 14:38:39.834 [python] [ERROR] Exe
+21-12-2020 14:38:39.834 [python] [ERROR] cutio
+21-12-2020 14:38:39.834 [python] [ERROR] n Ali
+21-12-2020 14:38:39.834 [python] [ERROR] ases
+21-12-2020 14:38:39.835 [python] [ERROR] .
+21-12-2020 14:38:39.857 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 14:38:39.857 [Gauge] [DEBUG] Gauge could not initialize. Install 'ms-python.python' extension for code insights. For more information see[Problems](command:workbench.actions.view.problems), check logs.[Troubleshooting](https://docs.gauge.org/troubleshooting.html?language=javascript&ide=vscode#gauge-could-not-initialize-for-more-information-see-problems)
+Some of the gauge lsp feature will not work as expected.
+21-12-2020 14:38:39.857 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+21-12-2020 14:38:39.886 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+21-12-2020 14:39:04.535 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs
+21-12-2020 14:39:04.536 [Gauge] [DEBUG] Found 10 files
+21-12-2020 14:39:04.541 [Gauge] [INFO] Initializing concepts cache with 11 concepts
+21-12-2020 14:39:04.541 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\remove_configuration.cpt
+21-12-2020 14:39:04.541 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_io.cpt
+21-12-2020 14:39:04.541 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\verify_pc_connection.cpt
+21-12-2020 14:39:04.541 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 14:39:04.541 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\donwload_configuration_lookup.cpt
+21-12-2020 14:39:04.541 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_safe_io.cpt
+21-12-2020 14:39:04.541 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_compressed_configuration.cpt
+21-12-2020 14:39:04.541 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset.cpt
+21-12-2020 14:39:04.541 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset_ssr.cpt
+21-12-2020 14:39:04.542 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_safe_device.cpt
+21-12-2020 14:39:04.542 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_configuration.cpt
+21-12-2020 14:39:04.548 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs\concepts
+21-12-2020 14:39:04.586 [Gauge] [DEBUG] Found 11 files
+21-12-2020 14:39:04.627 [Gauge] [INFO] Initializing specs cache with 9 specs
+21-12-2020 14:39:04.627 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\ssr-demo.spec
+21-12-2020 14:39:04.627 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\osprey.spec
+21-12-2020 14:39:04.627 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\hawk.spec
+21-12-2020 14:39:04.627 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\fanuc.spec
+21-12-2020 14:39:04.627 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\opc-demo.spec
+21-12-2020 14:39:04.627 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\old.spec
+21-12-2020 14:39:04.627 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\eip-demo.spec
+21-12-2020 14:39:04.627 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\test.spec
+21-12-2020 14:39:04.628 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\managed-switch.spec
+21-12-2020 14:39:04.628 [Gauge] [INFO] Initializing steps cache with 20 steps
+21-12-2020 14:39:04.631 [Gauge] [INFO] Starting language runner
+21-12-2020 14:39:05.954 [python] [ERROR] P
+21-12-2020 14:39:05.954 [python] [ERROR] ython was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+21-12-2020 14:39:06.489 [python] [ERROR] P
+21-12-2020 14:39:06.489 [python] [ERROR] ython was not found;
+21-12-2020 14:39:06.489 [python] [ERROR] run wi
+21-12-2020 14:39:06.489 [python] [ERROR] thout arguments to install from the Microsoft Store
+21-12-2020 14:39:06.489 [python] [ERROR] , or
+21-12-2020 14:39:06.489 [python] [ERROR] disable this sho
+21-12-2020 14:39:06.489 [python] [ERROR] rtcut
+21-12-2020 14:39:06.489 [python] [ERROR] from S
+21-12-2020 14:39:06.489 [python] [ERROR] ettings
+21-12-2020 14:39:06.489 [python] [ERROR] > Manag
+21-12-2020 14:39:06.489 [python] [ERROR] e App
+21-12-2020 14:39:06.489 [python] [ERROR] Executi
+21-12-2020 14:39:06.490 [python] [ERROR] on Ali
+21-12-2020 14:39:06.490 [python] [ERROR] ases.
+21-12-2020 14:39:06.509 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 14:39:06.509 [Gauge] [DEBUG] Gauge could not initialize. Install 'ms-python.python' extension for code insights. For more information see[Problems](command:workbench.actions.view.problems), check logs.[Troubleshooting](https://docs.gauge.org/troubleshooting.html?language=javascript&ide=vscode#gauge-could-not-initialize-for-more-information-see-problems)
+Some of the gauge lsp feature will not work as expected.
+21-12-2020 14:39:06.509 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+21-12-2020 14:39:06.524 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+21-12-2020 14:53:21.457 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs
+21-12-2020 14:53:21.458 [Gauge] [DEBUG] Found 10 files
+21-12-2020 14:53:21.460 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs\concepts
+21-12-2020 14:53:21.461 [Gauge] [DEBUG] Found 11 files
+21-12-2020 14:53:21.473 [Gauge] [INFO] Initializing concepts cache with 11 concepts
+21-12-2020 14:53:21.473 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\donwload_configuration_lookup.cpt
+21-12-2020 14:53:21.473 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset.cpt
+21-12-2020 14:53:21.473 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\remove_configuration.cpt
+21-12-2020 14:53:21.473 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_io.cpt
+21-12-2020 14:53:21.473 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_safe_io.cpt
+21-12-2020 14:53:21.473 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\verify_pc_connection.cpt
+21-12-2020 14:53:21.473 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 14:53:21.473 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_safe_device.cpt
+21-12-2020 14:53:21.473 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_compressed_configuration.cpt
+21-12-2020 14:53:21.473 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_configuration.cpt
+21-12-2020 14:53:21.473 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset_ssr.cpt
+21-12-2020 14:53:21.484 [Gauge] [INFO] Initializing specs cache with 9 specs
+21-12-2020 14:53:21.484 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\managed-switch.spec
+21-12-2020 14:53:21.484 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\hawk.spec
+21-12-2020 14:53:21.484 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\ssr-demo.spec
+21-12-2020 14:53:21.484 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\opc-demo.spec
+21-12-2020 14:53:21.484 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\osprey.spec
+21-12-2020 14:53:21.484 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\fanuc.spec
+21-12-2020 14:53:21.484 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\old.spec
+21-12-2020 14:53:21.484 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\eip-demo.spec
+21-12-2020 14:53:21.484 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\test.spec
+21-12-2020 14:53:21.484 [Gauge] [INFO] Initializing steps cache with 20 steps
+21-12-2020 14:53:21.485 [Gauge] [INFO] Starting language runner
+21-12-2020 14:53:21.771 [python] [ERROR] P
+21-12-2020 14:53:21.771 [python] [ERROR] ython was not found; run withou
+21-12-2020 14:53:21.771 [python] [ERROR] t argum
+21-12-2020 14:53:21.771 [python] [ERROR] ents t
+21-12-2020 14:53:21.771 [python] [ERROR] o in
+21-12-2020 14:53:21.771 [python] [ERROR] stall
+21-12-2020 14:53:21.771 [python] [ERROR] from
+21-12-2020 14:53:21.771 [python] [ERROR] the Mi
+21-12-2020 14:53:21.771 [python] [ERROR] croso
+21-12-2020 14:53:21.771 [python] [ERROR] ft
+21-12-2020 14:53:21.771 [python] [ERROR] S
+21-12-2020 14:53:21.771 [python] [ERROR] tore,
+21-12-2020 14:53:21.772 [python] [ERROR] or
+21-12-2020 14:53:21.772 [python] [ERROR] disable this
+21-12-2020 14:53:21.772 [python] [ERROR] shortcut from S
+21-12-2020 14:53:21.772 [python] [ERROR] ettings
+21-12-2020 14:53:21.772 [python] [ERROR] > Ma
+21-12-2020 14:53:21.772 [python] [ERROR] nage
+21-12-2020 14:53:21.772 [python] [ERROR] App E
+21-12-2020 14:53:21.772 [python] [ERROR] xecut
+21-12-2020 14:53:21.772 [python] [ERROR] ion
+21-12-2020 14:53:21.772 [python] [ERROR] Alias
+21-12-2020 14:53:21.772 [python] [ERROR] es.
+21-12-2020 14:53:21.991 [python] [ERROR] P
+21-12-2020 14:53:21.991 [python] [ERROR] ython was not found; run witho
+21-12-2020 14:53:21.991 [python] [ERROR] ut arg
+21-12-2020 14:53:21.991 [python] [ERROR] uments to
+21-12-2020 14:53:21.991 [python] [ERROR] install
+21-12-2020 14:53:21.991 [python] [ERROR] from the Mic
+21-12-2020 14:53:21.991 [python] [ERROR] rosoft
+21-12-2020 14:53:21.991 [python] [ERROR] Store, or d
+21-12-2020 14:53:21.991 [python] [ERROR] isable t
+21-12-2020 14:53:21.991 [python] [ERROR] his shortcut
+21-12-2020 14:53:21.991 [python] [ERROR] from S
+21-12-2020 14:53:21.991 [python] [ERROR] ettings >
+21-12-2020 14:53:21.991 [python] [ERROR] Manag
+21-12-2020 14:53:21.991 [python] [ERROR] e App Exe
+21-12-2020 14:53:21.991 [python] [ERROR] cutio
+21-12-2020 14:53:21.991 [python] [ERROR] n Aliase
+21-12-2020 14:53:21.991 [python] [ERROR] s.
+21-12-2020 14:53:22.005 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 14:53:22.005 [Gauge] [DEBUG] Gauge could not initialize. Install 'ms-python.python' extension for code insights. For more information see[Problems](command:workbench.actions.view.problems), check logs.[Troubleshooting](https://docs.gauge.org/troubleshooting.html?language=javascript&ide=vscode#gauge-could-not-initialize-for-more-information-see-problems)
+Some of the gauge lsp feature will not work as expected.
+21-12-2020 14:53:22.005 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+21-12-2020 14:53:22.012 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+21-12-2020 14:53:35.712 [Gauge] [INFO] Connection closed
+21-12-2020 14:53:38.561 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs
+21-12-2020 14:53:38.561 [Gauge] [DEBUG] Found 10 files
+21-12-2020 14:53:38.561 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs\concepts
+21-12-2020 14:53:38.562 [Gauge] [DEBUG] Found 11 files
+21-12-2020 14:53:38.569 [Gauge] [INFO] Initializing concepts cache with 11 concepts
+21-12-2020 14:53:38.569 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_safe_io.cpt
+21-12-2020 14:53:38.569 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 14:53:38.569 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\donwload_configuration_lookup.cpt
+21-12-2020 14:53:38.569 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset.cpt
+21-12-2020 14:53:38.569 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\remove_configuration.cpt
+21-12-2020 14:53:38.569 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_configuration.cpt
+21-12-2020 14:53:38.569 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_io.cpt
+21-12-2020 14:53:38.569 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset_ssr.cpt
+21-12-2020 14:53:38.569 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\verify_pc_connection.cpt
+21-12-2020 14:53:38.569 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_safe_device.cpt
+21-12-2020 14:53:38.569 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_compressed_configuration.cpt
+21-12-2020 14:53:38.578 [Gauge] [INFO] Initializing specs cache with 9 specs
+21-12-2020 14:53:38.578 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\managed-switch.spec
+21-12-2020 14:53:38.578 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\eip-demo.spec
+21-12-2020 14:53:38.578 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\opc-demo.spec
+21-12-2020 14:53:38.578 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\test.spec
+21-12-2020 14:53:38.578 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\osprey.spec
+21-12-2020 14:53:38.578 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\fanuc.spec
+21-12-2020 14:53:38.578 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\hawk.spec
+21-12-2020 14:53:38.578 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\old.spec
+21-12-2020 14:53:38.578 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\ssr-demo.spec
+21-12-2020 14:53:38.578 [Gauge] [INFO] Initializing steps cache with 20 steps
+21-12-2020 14:53:38.579 [Gauge] [INFO] Starting language runner
+21-12-2020 14:53:38.837 [python] [ERROR] P
+21-12-2020 14:53:38.837 [python] [ERROR] ython was not f
+21-12-2020 14:53:38.837 [python] [ERROR] ound
+21-12-2020 14:53:38.837 [python] [ERROR] ; run
+21-12-2020 14:53:38.837 [python] [ERROR] withou
+21-12-2020 14:53:38.837 [python] [ERROR] t ar
+21-12-2020 14:53:38.837 [python] [ERROR] gum
+21-12-2020 14:53:38.837 [python] [ERROR] ent
+21-12-2020 14:53:38.837 [python] [ERROR] s to
+21-12-2020 14:53:38.837 [python] [ERROR] insta
+21-12-2020 14:53:38.837 [python] [ERROR] ll fro
+21-12-2020 14:53:38.837 [python] [ERROR] m the M
+21-12-2020 14:53:38.837 [python] [ERROR] icrosoft
+21-12-2020 14:53:38.837 [python] [ERROR] Store,
+21-12-2020 14:53:38.837 [python] [ERROR] or disab
+21-12-2020 14:53:38.837 [python] [ERROR] le
+21-12-2020 14:53:38.837 [python] [ERROR] this sh
+21-12-2020 14:53:38.837 [python] [ERROR] ortcut
+21-12-2020 14:53:38.837 [python] [ERROR] from S
+21-12-2020 14:53:38.837 [python] [ERROR] etting
+21-12-2020 14:53:38.837 [python] [ERROR] s > Man
+21-12-2020 14:53:38.837 [python] [ERROR] age Ap
+21-12-2020 14:53:38.837 [python] [ERROR] p Execut
+21-12-2020 14:53:38.837 [python] [ERROR] ion A
+21-12-2020 14:53:38.837 [python] [ERROR] liases.
+21-12-2020 14:53:39.051 [python] [ERROR] P
+21-12-2020 14:53:39.053 [python] [ERROR] ython was not found; ru
+21-12-2020 14:53:39.053 [python] [ERROR] n with
+21-12-2020 14:53:39.053 [python] [ERROR] out a
+21-12-2020 14:53:39.053 [python] [ERROR] rgumen
+21-12-2020 14:53:39.053 [python] [ERROR] ts to
+21-12-2020 14:53:39.053 [python] [ERROR] inst
+21-12-2020 14:53:39.053 [python] [ERROR] all f
+21-12-2020 14:53:39.053 [python] [ERROR] rom t
+21-12-2020 14:53:39.053 [python] [ERROR] he M
+21-12-2020 14:53:39.053 [python] [ERROR] icrosoft Store, or disable
+21-12-2020 14:53:39.053 [python] [ERROR] this s
+21-12-2020 14:53:39.053 [python] [ERROR] hortc
+21-12-2020 14:53:39.053 [python] [ERROR] ut f
+21-12-2020 14:53:39.053 [python] [ERROR] rom S
+21-12-2020 14:53:39.053 [python] [ERROR] ettin
+21-12-2020 14:53:39.053 [python] [ERROR] gs >
+21-12-2020 14:53:39.053 [python] [ERROR] Manag
+21-12-2020 14:53:39.053 [python] [ERROR] e App
+21-12-2020 14:53:39.053 [python] [ERROR] Exec
+21-12-2020 14:53:39.053 [python] [ERROR] ution
+21-12-2020 14:53:39.053 [python] [ERROR] Ali
+21-12-2020 14:53:39.053 [python] [ERROR] ases.
+21-12-2020 14:53:39.064 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 14:53:39.064 [Gauge] [DEBUG] Gauge could not initialize. Install 'ms-python.python' extension for code insights. For more information see[Problems](command:workbench.actions.view.problems), check logs.[Troubleshooting](https://docs.gauge.org/troubleshooting.html?language=javascript&ide=vscode#gauge-could-not-initialize-for-more-information-see-problems)
+Some of the gauge lsp feature will not work as expected.
+21-12-2020 14:53:39.064 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+21-12-2020 14:53:39.070 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+21-12-2020 14:57:36.194 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs
+21-12-2020 14:57:36.196 [Gauge] [DEBUG] Found 10 files
+21-12-2020 14:57:36.196 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs\concepts
+21-12-2020 14:57:36.197 [Gauge] [DEBUG] Found 11 files
+21-12-2020 14:57:36.208 [Gauge] [INFO] Initializing concepts cache with 11 concepts
+21-12-2020 14:57:36.208 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 14:57:36.208 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\verify_pc_connection.cpt
+21-12-2020 14:57:36.208 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_safe_io.cpt
+21-12-2020 14:57:36.208 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\donwload_configuration_lookup.cpt
+21-12-2020 14:57:36.208 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_configuration.cpt
+21-12-2020 14:57:36.208 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset.cpt
+21-12-2020 14:57:36.208 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset_ssr.cpt
+21-12-2020 14:57:36.208 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_io.cpt
+21-12-2020 14:57:36.208 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\remove_configuration.cpt
+21-12-2020 14:57:36.208 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_safe_device.cpt
+21-12-2020 14:57:36.208 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_compressed_configuration.cpt
+21-12-2020 14:57:36.227 [Gauge] [INFO] Initializing specs cache with 9 specs
+21-12-2020 14:57:36.227 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\opc-demo.spec
+21-12-2020 14:57:36.227 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\managed-switch.spec
+21-12-2020 14:57:36.227 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\test.spec
+21-12-2020 14:57:36.227 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\fanuc.spec
+21-12-2020 14:57:36.227 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\hawk.spec
+21-12-2020 14:57:36.227 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\ssr-demo.spec
+21-12-2020 14:57:36.227 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\old.spec
+21-12-2020 14:57:36.227 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\eip-demo.spec
+21-12-2020 14:57:36.227 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\osprey.spec
+21-12-2020 14:57:36.227 [Gauge] [INFO] Initializing steps cache with 20 steps
+21-12-2020 14:57:36.229 [Gauge] [INFO] Starting language runner
+21-12-2020 14:57:36.486 [python] [ERROR] P
+21-12-2020 14:57:36.486 [python] [ERROR] ython was not found; run without arguments to insta
+21-12-2020 14:57:36.486 [python] [ERROR] ll from
+21-12-2020 14:57:36.486 [python] [ERROR] the Mic
+21-12-2020 14:57:36.486 [python] [ERROR] rosof
+21-12-2020 14:57:36.486 [python] [ERROR] t Stor
+21-12-2020 14:57:36.486 [python] [ERROR] e, or
+21-12-2020 14:57:36.486 [python] [ERROR] disab
+21-12-2020 14:57:36.486 [python] [ERROR] le th
+21-12-2020 14:57:36.486 [python] [ERROR] is sho
+21-12-2020 14:57:36.486 [python] [ERROR] rtcut
+21-12-2020 14:57:36.486 [python] [ERROR] from
+21-12-2020 14:57:36.486 [python] [ERROR] Setti
+21-12-2020 14:57:36.486 [python] [ERROR] ngs >
+21-12-2020 14:57:36.486 [python] [ERROR] Mana
+21-12-2020 14:57:36.486 [python] [ERROR] ge App
+21-12-2020 14:57:36.486 [python] [ERROR] Exec
+21-12-2020 14:57:36.486 [python] [ERROR] ution
+21-12-2020 14:57:36.486 [python] [ERROR] Alias
+21-12-2020 14:57:36.486 [python] [ERROR] es.
+21-12-2020 14:57:36.691 [python] [ERROR] P
+21-12-2020 14:57:36.691 [python] [ERROR] ython was not found; run witho
+21-12-2020 14:57:36.691 [python] [ERROR] ut ar
+21-12-2020 14:57:36.691 [python] [ERROR] gument
+21-12-2020 14:57:36.691 [python] [ERROR] s to instal
+21-12-2020 14:57:36.691 [python] [ERROR] l from t
+21-12-2020 14:57:36.691 [python] [ERROR] he Micro
+21-12-2020 14:57:36.691 [python] [ERROR] soft S
+21-12-2020 14:57:36.691 [python] [ERROR] tore, o
+21-12-2020 14:57:36.691 [python] [ERROR] r dis
+21-12-2020 14:57:36.691 [python] [ERROR] able
+21-12-2020 14:57:36.691 [python] [ERROR] thi
+21-12-2020 14:57:36.691 [python] [ERROR] s sho
+21-12-2020 14:57:36.691 [python] [ERROR] rtc
+21-12-2020 14:57:36.691 [python] [ERROR] ut f
+21-12-2020 14:57:36.691 [python] [ERROR] rom
+21-12-2020 14:57:36.691 [python] [ERROR] Se
+21-12-2020 14:57:36.691 [python] [ERROR] tti
+21-12-2020 14:57:36.691 [python] [ERROR] ngs
+21-12-2020 14:57:36.691 [python] [ERROR] > M
+21-12-2020 14:57:36.691 [python] [ERROR] ana
+21-12-2020 14:57:36.691 [python] [ERROR] ge
+21-12-2020 14:57:36.691 [python] [ERROR] App
+21-12-2020 14:57:36.691 [python] [ERROR] Ex
+21-12-2020 14:57:36.691 [python] [ERROR] ecut
+21-12-2020 14:57:36.691 [python] [ERROR] ion
+21-12-2020 14:57:36.691 [python] [ERROR] Ali
+21-12-2020 14:57:36.691 [python] [ERROR] ase
+21-12-2020 14:57:36.691 [python] [ERROR] s.
+21-12-2020 14:57:36.704 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 14:57:36.704 [Gauge] [DEBUG] Gauge could not initialize. Install 'ms-python.python' extension for code insights. For more information see[Problems](command:workbench.actions.view.problems), check logs.[Troubleshooting](https://docs.gauge.org/troubleshooting.html?language=javascript&ide=vscode#gauge-could-not-initialize-for-more-information-see-problems)
+Some of the gauge lsp feature will not work as expected.
+21-12-2020 14:57:36.704 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+21-12-2020 14:57:36.715 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+21-12-2020 14:59:31.215 [Gauge] [CRITICAL] Failed to read execution status information. Reason: File c:\Work_stuff\gauge_framework_project\.gauge\executionStatus.json doesn't exist.
+21-12-2020 14:59:31.293 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs
+21-12-2020 14:59:31.293 [Gauge] [DEBUG] Found 10 files
+21-12-2020 14:59:31.294 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs\concepts
+21-12-2020 14:59:31.294 [Gauge] [DEBUG] Found 11 files
+21-12-2020 14:59:31.299 [Gauge] [INFO] Initializing concepts cache with 11 concepts
+21-12-2020 14:59:31.299 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_io.cpt
+21-12-2020 14:59:31.299 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\remove_configuration.cpt
+21-12-2020 14:59:31.299 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_safe_io.cpt
+21-12-2020 14:59:31.299 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\verify_pc_connection.cpt
+21-12-2020 14:59:31.299 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_safe_device.cpt
+21-12-2020 14:59:31.299 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_compressed_configuration.cpt
+21-12-2020 14:59:31.299 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\donwload_configuration_lookup.cpt
+21-12-2020 14:59:31.299 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset.cpt
+21-12-2020 14:59:31.299 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset_ssr.cpt
+21-12-2020 14:59:31.299 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 14:59:31.299 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_configuration.cpt
+21-12-2020 14:59:31.308 [Gauge] [INFO] Initializing specs cache with 9 specs
+21-12-2020 14:59:31.308 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\opc-demo.spec
+21-12-2020 14:59:31.308 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\test.spec
+21-12-2020 14:59:31.308 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\fanuc.spec
+21-12-2020 14:59:31.308 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\eip-demo.spec
+21-12-2020 14:59:31.308 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\hawk.spec
+21-12-2020 14:59:31.308 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\managed-switch.spec
+21-12-2020 14:59:31.308 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\ssr-demo.spec
+21-12-2020 14:59:31.308 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\osprey.spec
+21-12-2020 14:59:31.308 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\old.spec
+21-12-2020 14:59:31.308 [Gauge] [INFO] Initializing steps cache with 20 steps
+21-12-2020 14:59:31.309 [Gauge] [INFO] Starting language runner
+21-12-2020 14:59:31.533 [python] [ERROR] P
+21-12-2020 14:59:31.533 [python] [ERROR] ython was not found; run without argume
+21-12-2020 14:59:31.533 [python] [ERROR] nts t
+21-12-2020 14:59:31.533 [python] [ERROR] o ins
+21-12-2020 14:59:31.533 [python] [ERROR] tall
+21-12-2020 14:59:31.534 [python] [ERROR] from
+21-12-2020 14:59:31.534 [python] [ERROR] the M
+21-12-2020 14:59:31.534 [python] [ERROR] icros
+21-12-2020 14:59:31.534 [python] [ERROR] oft
+21-12-2020 14:59:31.534 [python] [ERROR] Store
+21-12-2020 14:59:31.534 [python] [ERROR] , or
+21-12-2020 14:59:31.534 [python] [ERROR] disa
+21-12-2020 14:59:31.534 [python] [ERROR] ble t
+21-12-2020 14:59:31.534 [python] [ERROR] his s
+21-12-2020 14:59:31.534 [python] [ERROR] hort
+21-12-2020 14:59:31.534 [python] [ERROR] cut
+21-12-2020 14:59:31.534 [python] [ERROR] from
+21-12-2020 14:59:31.534 [python] [ERROR] Sett
+21-12-2020 14:59:31.534 [python] [ERROR] ings
+21-12-2020 14:59:31.534 [python] [ERROR] > Ma
+21-12-2020 14:59:31.534 [python] [ERROR] nage
+21-12-2020 14:59:31.534 [python] [ERROR] App
+21-12-2020 14:59:31.534 [python] [ERROR] Executi
+21-12-2020 14:59:31.534 [python] [ERROR] on Al
+21-12-2020 14:59:31.534 [python] [ERROR] iase
+21-12-2020 14:59:31.534 [python] [ERROR] s.
+21-12-2020 14:59:31.715 [python] [ERROR] P
+21-12-2020 14:59:31.715 [python] [ERROR] ython was not found; run without arguments to instal
+21-12-2020 14:59:31.715 [python] [ERROR] l from
+21-12-2020 14:59:31.715 [python] [ERROR] the
+21-12-2020 14:59:31.715 [python] [ERROR] Micro
+21-12-2020 14:59:31.715 [python] [ERROR] soft
+21-12-2020 14:59:31.715 [python] [ERROR] Stor
+21-12-2020 14:59:31.715 [python] [ERROR] e, or
+21-12-2020 14:59:31.715 [python] [ERROR] disa
+21-12-2020 14:59:31.715 [python] [ERROR] ble t
+21-12-2020 14:59:31.715 [python] [ERROR] his s
+21-12-2020 14:59:31.715 [python] [ERROR] hortc
+21-12-2020 14:59:31.715 [python] [ERROR] ut fr
+21-12-2020 14:59:31.715 [python] [ERROR] om S
+21-12-2020 14:59:31.715 [python] [ERROR] ettin
+21-12-2020 14:59:31.715 [python] [ERROR] gs >
+21-12-2020 14:59:31.715 [python] [ERROR] Mana
+21-12-2020 14:59:31.715 [python] [ERROR] ge A
+21-12-2020 14:59:31.715 [python] [ERROR] pp Exe
+21-12-2020 14:59:31.715 [python] [ERROR] cutio
+21-12-2020 14:59:31.715 [python] [ERROR] n Ali
+21-12-2020 14:59:31.715 [python] [ERROR] ases
+21-12-2020 14:59:31.715 [python] [ERROR] .
+21-12-2020 14:59:31.726 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 14:59:31.726 [Gauge] [DEBUG] Gauge could not initialize. Install 'ms-python.python' extension for code insights. For more information see[Problems](command:workbench.actions.view.problems), check logs.[Troubleshooting](https://docs.gauge.org/troubleshooting.html?language=javascript&ide=vscode#gauge-could-not-initialize-for-more-information-see-problems)
+Some of the gauge lsp feature will not work as expected.
+21-12-2020 14:59:31.726 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+21-12-2020 14:59:31.729 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+21-12-2020 15:00:01.070 [Gauge] [CRITICAL] Failed to read execution status information. Reason: File c:\Work_stuff\gauge_framework_project\.gauge\executionStatus.json doesn't exist.
+21-12-2020 15:00:01.143 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs
+21-12-2020 15:00:01.143 [Gauge] [DEBUG] Found 10 files
+21-12-2020 15:00:01.143 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs\concepts
+21-12-2020 15:00:01.144 [Gauge] [DEBUG] Found 11 files
+21-12-2020 15:00:01.148 [Gauge] [INFO] Initializing concepts cache with 11 concepts
+21-12-2020 15:00:01.148 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_configuration.cpt
+21-12-2020 15:00:01.148 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset.cpt
+21-12-2020 15:00:01.148 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_io.cpt
+21-12-2020 15:00:01.148 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset_ssr.cpt
+21-12-2020 15:00:01.148 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\remove_configuration.cpt
+21-12-2020 15:00:01.148 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\donwload_configuration_lookup.cpt
+21-12-2020 15:00:01.148 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_compressed_configuration.cpt
+21-12-2020 15:00:01.148 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_safe_io.cpt
+21-12-2020 15:00:01.148 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\verify_pc_connection.cpt
+21-12-2020 15:00:01.148 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 15:00:01.148 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_safe_device.cpt
+21-12-2020 15:00:01.158 [Gauge] [INFO] Initializing specs cache with 9 specs
+21-12-2020 15:00:01.158 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\managed-switch.spec
+21-12-2020 15:00:01.158 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\opc-demo.spec
+21-12-2020 15:00:01.158 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\test.spec
+21-12-2020 15:00:01.158 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\osprey.spec
+21-12-2020 15:00:01.158 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\hawk.spec
+21-12-2020 15:00:01.158 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\eip-demo.spec
+21-12-2020 15:00:01.158 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\old.spec
+21-12-2020 15:00:01.158 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\fanuc.spec
+21-12-2020 15:00:01.158 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\ssr-demo.spec
+21-12-2020 15:00:01.158 [Gauge] [INFO] Initializing steps cache with 20 steps
+21-12-2020 15:00:01.159 [Gauge] [INFO] Starting language runner
+21-12-2020 15:00:01.396 [python] [ERROR] P
+21-12-2020 15:00:01.396 [python] [ERROR] ython was not found; run without arguments to in
+21-12-2020 15:00:01.396 [python] [ERROR] stall fro
+21-12-2020 15:00:01.396 [python] [ERROR] m the
+21-12-2020 15:00:01.396 [python] [ERROR] Micro
+21-12-2020 15:00:01.396 [python] [ERROR] soft
+21-12-2020 15:00:01.396 [python] [ERROR] Store
+21-12-2020 15:00:01.396 [python] [ERROR] , or
+21-12-2020 15:00:01.396 [python] [ERROR] disa
+21-12-2020 15:00:01.396 [python] [ERROR] ble
+21-12-2020 15:00:01.396 [python] [ERROR] this
+21-12-2020 15:00:01.397 [python] [ERROR] sho
+21-12-2020 15:00:01.397 [python] [ERROR] rtc
+21-12-2020 15:00:01.397 [python] [ERROR] ut f
+21-12-2020 15:00:01.397 [python] [ERROR] rom S
+21-12-2020 15:00:01.397 [python] [ERROR] etti
+21-12-2020 15:00:01.397 [python] [ERROR] ngs >
+21-12-2020 15:00:01.397 [python] [ERROR] Man
+21-12-2020 15:00:01.397 [python] [ERROR] age A
+21-12-2020 15:00:01.397 [python] [ERROR] pp E
+21-12-2020 15:00:01.397 [python] [ERROR] xecut
+21-12-2020 15:00:01.397 [python] [ERROR] ion
+21-12-2020 15:00:01.397 [python] [ERROR] Alias
+21-12-2020 15:00:01.397 [python] [ERROR] es.
+21-12-2020 15:00:01.599 [python] [ERROR] P
+21-12-2020 15:00:01.599 [python] [ERROR] ython was not found; run without arguments to ins
+21-12-2020 15:00:01.599 [python] [ERROR] t
+21-12-2020 15:00:01.599 [python] [ERROR] all from the Microsoft Store, or disable this
+21-12-2020 15:00:01.599 [python] [ERROR] shortcut from Set
+21-12-2020 15:00:01.599 [python] [ERROR] tings
+21-12-2020 15:00:01.599 [python] [ERROR] > Manag
+21-12-2020 15:00:01.600 [python] [ERROR] e App
+21-12-2020 15:00:01.600 [python] [ERROR] Execut
+21-12-2020 15:00:01.600 [python] [ERROR] ion
+21-12-2020 15:00:01.600 [python] [ERROR] Aliases
+21-12-2020 15:00:01.600 [python] [ERROR] .
+21-12-2020 15:00:01.612 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 15:00:01.612 [Gauge] [DEBUG] Gauge could not initialize. Install 'ms-python.python' extension for code insights. For more information see[Problems](command:workbench.actions.view.problems), check logs.[Troubleshooting](https://docs.gauge.org/troubleshooting.html?language=javascript&ide=vscode#gauge-could-not-initialize-for-more-information-see-problems)
+Some of the gauge lsp feature will not work as expected.
+21-12-2020 15:00:01.612 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+21-12-2020 15:00:01.614 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+21-12-2020 15:00:33.133 [Gauge] [CRITICAL] Failed to read execution status information. Reason: File c:\Work_stuff\gauge_framework_project\.gauge\executionStatus.json doesn't exist.
+21-12-2020 15:00:33.184 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs
+21-12-2020 15:00:33.185 [Gauge] [DEBUG] Found 10 files
+21-12-2020 15:00:33.185 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs\concepts
+21-12-2020 15:00:33.185 [Gauge] [DEBUG] Found 11 files
+21-12-2020 15:00:33.191 [Gauge] [INFO] Initializing concepts cache with 11 concepts
+21-12-2020 15:00:33.191 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_io.cpt
+21-12-2020 15:00:33.191 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_safe_device.cpt
+21-12-2020 15:00:33.191 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset.cpt
+21-12-2020 15:00:33.191 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_safe_io.cpt
+21-12-2020 15:00:33.191 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\donwload_configuration_lookup.cpt
+21-12-2020 15:00:33.191 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_configuration.cpt
+21-12-2020 15:00:33.191 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset_ssr.cpt
+21-12-2020 15:00:33.191 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\remove_configuration.cpt
+21-12-2020 15:00:33.191 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\verify_pc_connection.cpt
+21-12-2020 15:00:33.191 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 15:00:33.191 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_compressed_configuration.cpt
+21-12-2020 15:00:33.200 [Gauge] [INFO] Initializing specs cache with 9 specs
+21-12-2020 15:00:33.200 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\hawk.spec
+21-12-2020 15:00:33.200 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\ssr-demo.spec
+21-12-2020 15:00:33.200 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\eip-demo.spec
+21-12-2020 15:00:33.200 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\opc-demo.spec
+21-12-2020 15:00:33.200 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\test.spec
+21-12-2020 15:00:33.200 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\osprey.spec
+21-12-2020 15:00:33.200 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\fanuc.spec
+21-12-2020 15:00:33.200 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\old.spec
+21-12-2020 15:00:33.200 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\managed-switch.spec
+21-12-2020 15:00:33.200 [Gauge] [INFO] Initializing steps cache with 20 steps
+21-12-2020 15:00:33.201 [Gauge] [INFO] Starting language runner
+21-12-2020 15:00:33.414 [python] [ERROR] P
+21-12-2020 15:00:33.414 [python] [ERROR] ython was not found; run without arguments to inst
+21-12-2020 15:00:33.414 [python] [ERROR] all fr
+21-12-2020 15:00:33.414 [python] [ERROR] om the Microso
+21-12-2020 15:00:33.414 [python] [ERROR] ft Sto
+21-12-2020 15:00:33.414 [python] [ERROR] re, o
+21-12-2020 15:00:33.414 [python] [ERROR] r dis
+21-12-2020 15:00:33.414 [python] [ERROR] able
+21-12-2020 15:00:33.414 [python] [ERROR] this
+21-12-2020 15:00:33.414 [python] [ERROR] sho
+21-12-2020 15:00:33.414 [python] [ERROR] rtcut
+21-12-2020 15:00:33.414 [python] [ERROR] fro
+21-12-2020 15:00:33.414 [python] [ERROR] m Set
+21-12-2020 15:00:33.414 [python] [ERROR] ting
+21-12-2020 15:00:33.414 [python] [ERROR] s > Ma
+21-12-2020 15:00:33.414 [python] [ERROR] nage
+21-12-2020 15:00:33.414 [python] [ERROR] App E
+21-12-2020 15:00:33.414 [python] [ERROR] xecu
+21-12-2020 15:00:33.414 [python] [ERROR] tion
+21-12-2020 15:00:33.414 [python] [ERROR] Alia
+21-12-2020 15:00:33.414 [python] [ERROR] ses.
+21-12-2020 15:00:33.591 [python] [ERROR] P
+21-12-2020 15:00:33.599 [python] [ERROR] ython was not found; run without arguments to insta
+21-12-2020 15:00:33.599 [python] [ERROR] ll fro
+21-12-2020 15:00:33.599 [python] [ERROR] m the Microsoft Store,
+21-12-2020 15:00:33.599 [python] [ERROR] o
+21-12-2020 15:00:33.599 [python] [ERROR] r disable th
+21-12-2020 15:00:33.599 [python] [ERROR] is sho
+21-12-2020 15:00:33.599 [python] [ERROR] rtcut
+21-12-2020 15:00:33.599 [python] [ERROR] from
+21-12-2020 15:00:33.599 [python] [ERROR] Set
+21-12-2020 15:00:33.599 [python] [ERROR] tings
+21-12-2020 15:00:33.599 [python] [ERROR] > M
+21-12-2020 15:00:33.599 [python] [ERROR] anage
+21-12-2020 15:00:33.599 [python] [ERROR] App
+21-12-2020 15:00:33.599 [python] [ERROR] Exec
+21-12-2020 15:00:33.599 [python] [ERROR] utio
+21-12-2020 15:00:33.599 [python] [ERROR] n Alia
+21-12-2020 15:00:33.599 [python] [ERROR] ses.
+21-12-2020 15:00:33.611 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 15:00:33.611 [Gauge] [DEBUG] Gauge could not initialize. Install 'ms-python.python' extension for code insights. For more information see[Problems](command:workbench.actions.view.problems), check logs.[Troubleshooting](https://docs.gauge.org/troubleshooting.html?language=javascript&ide=vscode#gauge-could-not-initialize-for-more-information-see-problems)
+Some of the gauge lsp feature will not work as expected.
+21-12-2020 15:00:33.611 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+21-12-2020 15:00:33.614 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+21-12-2020 15:00:35.254 [Gauge] [DEBUG] request #5: textDocument/documentSymbol: parsing failed for c:\Work_stuff\gauge_framework_project\specs\fanuc.spec. [[ParseError] c:\Work_stuff\gauge_framework_project\specs\fanuc.spec:1 Spec does not have any elements => '']
+21-12-2020 15:00:37.019 [Gauge] [CRITICAL] Failed to read execution status information. Reason: File c:\Work_stuff\gauge_framework_project\.gauge\executionStatus.json doesn't exist.
+21-12-2020 15:00:37.087 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs
+21-12-2020 15:00:37.087 [Gauge] [DEBUG] Found 10 files
+21-12-2020 15:00:37.087 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs\concepts
+21-12-2020 15:00:37.088 [Gauge] [DEBUG] Found 11 files
+21-12-2020 15:00:37.093 [Gauge] [INFO] Initializing concepts cache with 11 concepts
+21-12-2020 15:00:37.093 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_configuration.cpt
+21-12-2020 15:00:37.093 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset_ssr.cpt
+21-12-2020 15:00:37.093 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_safe_io.cpt
+21-12-2020 15:00:37.093 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 15:00:37.093 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset.cpt
+21-12-2020 15:00:37.093 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_compressed_configuration.cpt
+21-12-2020 15:00:37.093 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\remove_configuration.cpt
+21-12-2020 15:00:37.093 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_safe_device.cpt
+21-12-2020 15:00:37.093 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\donwload_configuration_lookup.cpt
+21-12-2020 15:00:37.093 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_io.cpt
+21-12-2020 15:00:37.093 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\verify_pc_connection.cpt
+21-12-2020 15:00:37.102 [Gauge] [INFO] Initializing specs cache with 9 specs
+21-12-2020 15:00:37.102 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\fanuc.spec
+21-12-2020 15:00:37.102 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\old.spec
+21-12-2020 15:00:37.102 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\managed-switch.spec
+21-12-2020 15:00:37.102 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\eip-demo.spec
+21-12-2020 15:00:37.102 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\opc-demo.spec
+21-12-2020 15:00:37.102 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\test.spec
+21-12-2020 15:00:37.102 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\osprey.spec
+21-12-2020 15:00:37.102 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\ssr-demo.spec
+21-12-2020 15:00:37.102 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\hawk.spec
+21-12-2020 15:00:37.102 [Gauge] [INFO] Initializing steps cache with 20 steps
+21-12-2020 15:00:37.102 [Gauge] [INFO] Starting language runner
+21-12-2020 15:00:37.304 [python] [ERROR] P
+21-12-2020 15:00:37.304 [python] [ERROR] ython was not found; run without argume
+21-12-2020 15:00:37.304 [python] [ERROR] nts
+21-12-2020 15:00:37.317 [python] [ERROR] t
+21-12-2020 15:00:37.317 [python] [ERROR] o install from th
+21-12-2020 15:00:37.317 [python] [ERROR] e Mi
+21-12-2020 15:00:37.317 [python] [ERROR] croso
+21-12-2020 15:00:37.317 [python] [ERROR] ft St
+21-12-2020 15:00:37.317 [python] [ERROR] ore, o
+21-12-2020 15:00:37.317 [python] [ERROR] r dis
+21-12-2020 15:00:37.317 [python] [ERROR] able
+21-12-2020 15:00:37.317 [python] [ERROR] thi
+21-12-2020 15:00:37.317 [python] [ERROR] s sh
+21-12-2020 15:00:37.317 [python] [ERROR] ort
+21-12-2020 15:00:37.317 [python] [ERROR] cut
+21-12-2020 15:00:37.317 [python] [ERROR] fro
+21-12-2020 15:00:37.317 [python] [ERROR] m Se
+21-12-2020 15:00:37.317 [python] [ERROR] tti
+21-12-2020 15:00:37.317 [python] [ERROR] ngs
+21-12-2020 15:00:37.317 [python] [ERROR] > M
+21-12-2020 15:00:37.317 [python] [ERROR] anage
+21-12-2020 15:00:37.317 [python] [ERROR] App
+21-12-2020 15:00:37.317 [python] [ERROR] Execu
+21-12-2020 15:00:37.317 [python] [ERROR] tion
+21-12-2020 15:00:37.317 [python] [ERROR] Alias
+21-12-2020 15:00:37.317 [python] [ERROR] es.
+21-12-2020 15:00:37.498 [python] [ERROR] P
+21-12-2020 15:00:37.502 [python] [ERROR] ython was not found; run without arguments to install
+21-12-2020 15:00:37.502 [python] [ERROR] from the Microsoft Store, or disable this shortcut from Settings
+21-12-2020 15:00:37.502 [python] [ERROR] >
+21-12-2020 15:00:37.502 [python] [ERROR] Manage App Execution Aliases.
+21-12-2020 15:00:37.514 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 15:00:37.514 [Gauge] [DEBUG] Gauge could not initialize. Install 'ms-python.python' extension for code insights. For more information see[Problems](command:workbench.actions.view.problems), check logs.[Troubleshooting](https://docs.gauge.org/troubleshooting.html?language=javascript&ide=vscode#gauge-could-not-initialize-for-more-information-see-problems)
+Some of the gauge lsp feature will not work as expected.
+21-12-2020 15:00:37.514 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+21-12-2020 15:00:37.517 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+21-12-2020 15:00:43.847 [Gauge] [DEBUG] request #8: textDocument/documentSymbol: parsing failed for c:\Work_stuff\gauge_framework_project\specs\ssr-demo.spec. [[ParseError] c:\Work_stuff\gauge_framework_project\specs\ssr-demo.spec:1 Spec does not have any elements => '']
+21-12-2020 15:00:47.374 [Gauge] [CRITICAL] Failed to read execution status information. Reason: File c:\Work_stuff\gauge_framework_project\.gauge\executionStatus.json doesn't exist.
+21-12-2020 15:04:18.254 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs
+21-12-2020 15:04:18.255 [Gauge] [DEBUG] Found 10 files
+21-12-2020 15:04:18.255 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs\concepts
+21-12-2020 15:04:18.255 [Gauge] [DEBUG] Found 11 files
+21-12-2020 15:04:18.261 [Gauge] [INFO] Initializing concepts cache with 11 concepts
+21-12-2020 15:04:18.261 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\donwload_configuration_lookup.cpt
+21-12-2020 15:04:18.261 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_configuration.cpt
+21-12-2020 15:04:18.261 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_compressed_configuration.cpt
+21-12-2020 15:04:18.261 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset.cpt
+21-12-2020 15:04:18.261 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\remove_configuration.cpt
+21-12-2020 15:04:18.261 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_io.cpt
+21-12-2020 15:04:18.261 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 15:04:18.261 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_safe_io.cpt
+21-12-2020 15:04:18.261 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_safe_device.cpt
+21-12-2020 15:04:18.261 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset_ssr.cpt
+21-12-2020 15:04:18.261 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\verify_pc_connection.cpt
+21-12-2020 15:04:18.271 [Gauge] [INFO] Initializing specs cache with 9 specs
+21-12-2020 15:04:18.271 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\osprey.spec
+21-12-2020 15:04:18.271 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\old.spec
+21-12-2020 15:04:18.271 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\hawk.spec
+21-12-2020 15:04:18.271 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\managed-switch.spec
+21-12-2020 15:04:18.271 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\eip-demo.spec
+21-12-2020 15:04:18.271 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\ssr-demo.spec
+21-12-2020 15:04:18.271 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\opc-demo.spec
+21-12-2020 15:04:18.271 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\test.spec
+21-12-2020 15:04:18.271 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\fanuc.spec
+21-12-2020 15:04:18.271 [Gauge] [INFO] Initializing steps cache with 20 steps
+21-12-2020 15:04:18.272 [Gauge] [INFO] Starting language runner
+21-12-2020 15:04:18.525 [python] [ERROR] P
+21-12-2020 15:04:18.525 [python] [ERROR] ython was not found; run without
+21-12-2020 15:04:18.525 [python] [ERROR] argu
+21-12-2020 15:04:18.525 [python] [ERROR] ments
+21-12-2020 15:04:18.525 [python] [ERROR] to in
+21-12-2020 15:04:18.526 [python] [ERROR] stall
+21-12-2020 15:04:18.526 [python] [ERROR] f
+21-12-2020 15:04:18.526 [python] [ERROR] rom t
+21-12-2020 15:04:18.526 [python] [ERROR] he M
+21-12-2020 15:04:18.526 [python] [ERROR] icros
+21-12-2020 15:04:18.526 [python] [ERROR] oft
+21-12-2020 15:04:18.526 [python] [ERROR] Store
+21-12-2020 15:04:18.526 [python] [ERROR] , or
+21-12-2020 15:04:18.526 [python] [ERROR] disa
+21-12-2020 15:04:18.526 [python] [ERROR] ble
+21-12-2020 15:04:18.526 [python] [ERROR] this
+21-12-2020 15:04:18.526 [python] [ERROR] shor
+21-12-2020 15:04:18.526 [python] [ERROR] tcut
+21-12-2020 15:04:18.526 [python] [ERROR] from
+21-12-2020 15:04:18.526 [python] [ERROR] Sett
+21-12-2020 15:04:18.526 [python] [ERROR] ings
+21-12-2020 15:04:18.526 [python] [ERROR] > Man
+21-12-2020 15:04:18.526 [python] [ERROR] age
+21-12-2020 15:04:18.526 [python] [ERROR] App E
+21-12-2020 15:04:18.526 [python] [ERROR] xecu
+21-12-2020 15:04:18.526 [python] [ERROR] tion
+21-12-2020 15:04:18.526 [python] [ERROR] Alia
+21-12-2020 15:04:18.526 [python] [ERROR] ses.
+21-12-2020 15:04:18.744 [python] [ERROR] P
+21-12-2020 15:04:18.744 [python] [ERROR] ython was not found;
+21-12-2020 15:04:18.744 [python] [ERROR] r
+21-12-2020 15:04:18.744 [python] [ERROR] un w
+21-12-2020 15:04:18.744 [python] [ERROR] ith
+21-12-2020 15:04:18.744 [python] [ERROR] out
+21-12-2020 15:04:18.744 [python] [ERROR] argu
+21-12-2020 15:04:18.744 [python] [ERROR] men
+21-12-2020 15:04:18.744 [python] [ERROR] ts
+21-12-2020 15:04:18.744 [python] [ERROR] to i
+21-12-2020 15:04:18.744 [python] [ERROR] nsta
+21-12-2020 15:04:18.745 [python] [ERROR] ll fr
+21-12-2020 15:04:18.745 [python] [ERROR] om
+21-12-2020 15:04:18.745 [python] [ERROR] the
+21-12-2020 15:04:18.745 [python] [ERROR] Micr
+21-12-2020 15:04:18.745 [python] [ERROR] osoft
+21-12-2020 15:04:18.745 [python] [ERROR] Stor
+21-12-2020 15:04:18.745 [python] [ERROR] e, or disable
+21-12-2020 15:04:18.745 [python] [ERROR] this
+21-12-2020 15:04:18.745 [python] [ERROR] short
+21-12-2020 15:04:18.745 [python] [ERROR] cut
+21-12-2020 15:04:18.745 [python] [ERROR] from
+21-12-2020 15:04:18.745 [python] [ERROR] Sett
+21-12-2020 15:04:18.745 [python] [ERROR] ings
+21-12-2020 15:04:18.745 [python] [ERROR] > Ma
+21-12-2020 15:04:18.745 [python] [ERROR] nage
+21-12-2020 15:04:18.745 [python] [ERROR] App
+21-12-2020 15:04:18.745 [python] [ERROR] Execu
+21-12-2020 15:04:18.745 [python] [ERROR] tion
+21-12-2020 15:04:18.745 [python] [ERROR] Alia
+21-12-2020 15:04:18.745 [python] [ERROR] ses.
+21-12-2020 15:04:18.758 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 15:04:18.758 [Gauge] [DEBUG] Gauge could not initialize. Install 'ms-python.python' extension for code insights. For more information see[Problems](command:workbench.actions.view.problems), check logs.[Troubleshooting](https://docs.gauge.org/troubleshooting.html?language=javascript&ide=vscode#gauge-could-not-initialize-for-more-information-see-problems)
+Some of the gauge lsp feature will not work as expected.
+21-12-2020 15:04:18.758 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+21-12-2020 15:04:18.782 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+21-12-2020 15:17:12.774 [Gauge] [DEBUG] request #24: textDocument/documentSymbol: parsing failed for c:\Work_stuff\gauge_framework_project\specs\fanuc.spec. [[ParseError] c:\Work_stuff\gauge_framework_project\specs\fanuc.spec:1 Spec does not have any elements => '']
+21-12-2020 15:17:13.385 [Gauge] [DEBUG] request #27: textDocument/documentSymbol: parsing failed for c:\Work_stuff\gauge_framework_project\specs\eip-demo.spec. [[ParseError] c:\Work_stuff\gauge_framework_project\specs\eip-demo.spec:1 Spec does not have any elements => '']
+21-12-2020 15:17:14.193 [Gauge] [DEBUG] request #31: textDocument/documentSymbol: parsing failed for c:\Work_stuff\gauge_framework_project\specs\old.spec. [[ParseError] c:\Work_stuff\gauge_framework_project\specs\old.spec:1 Spec heading not found => '' [ParseError] c:\Work_stuff\gauge_framework_project\specs\old.spec:6 Scenario should be defined after the spec heading => '## SSR F-Host' [ParseError] c:\Work_stuff\gauge_framework_project\specs\old.spec:25 Scenario should be defined after the spec heading => '## SSR F-Host OLD' [ParseError] c:\Work_stuff\gauge_framework_project\specs\old.spec:27 Tags can be defined only once per specification => 'Tags: old']
+21-12-2020 15:17:14.406 [Gauge] [DEBUG] request #32: textDocument/codeLens: failed to parse c:\Work_stuff\gauge_framework_project\specs\old.spec
+c:\Work_stuff\gauge_framework_project\specs\old.spec:1 Spec heading not found
+c:\Work_stuff\gauge_framework_project\specs\old.spec:6 Scenario should be defined after the spec heading
+c:\Work_stuff\gauge_framework_project\specs\old.spec:25 Scenario should be defined after the spec heading
+c:\Work_stuff\gauge_framework_project\specs\old.spec:27 Tags can be defined only once per specification
+21-12-2020 15:17:17.600 [Gauge] [DEBUG] request #34: textDocument/documentSymbol: parsing failed for c:\Work_stuff\gauge_framework_project\specs\fanuc.spec. [[ParseError] c:\Work_stuff\gauge_framework_project\specs\fanuc.spec:1 Spec does not have any elements => '']
+21-12-2020 15:17:19.534 [Gauge] [CRITICAL] Failed to read execution status information. Reason: File c:\Work_stuff\gauge_framework_project\.gauge\executionStatus.json doesn't exist.
+21-12-2020 15:17:19.587 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs
+21-12-2020 15:17:19.588 [Gauge] [DEBUG] Found 10 files
+21-12-2020 15:17:19.588 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs\concepts
+21-12-2020 15:17:19.588 [Gauge] [DEBUG] Found 11 files
+21-12-2020 15:17:19.593 [Gauge] [INFO] Initializing concepts cache with 11 concepts
+21-12-2020 15:17:19.593 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\donwload_configuration_lookup.cpt
+21-12-2020 15:17:19.593 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset.cpt
+21-12-2020 15:17:19.593 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_io.cpt
+21-12-2020 15:17:19.593 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_safe_io.cpt
+21-12-2020 15:17:19.593 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\verify_pc_connection.cpt
+21-12-2020 15:17:19.593 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_safe_device.cpt
+21-12-2020 15:17:19.593 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_compressed_configuration.cpt
+21-12-2020 15:17:19.593 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\remove_configuration.cpt
+21-12-2020 15:17:19.593 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset_ssr.cpt
+21-12-2020 15:17:19.593 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 15:17:19.593 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_configuration.cpt
+21-12-2020 15:17:19.602 [Gauge] [INFO] Initializing specs cache with 9 specs
+21-12-2020 15:17:19.602 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\old.spec
+21-12-2020 15:17:19.602 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\opc-demo.spec
+21-12-2020 15:17:19.602 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\eip-demo.spec
+21-12-2020 15:17:19.602 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\test.spec
+21-12-2020 15:17:19.602 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\managed-switch.spec
+21-12-2020 15:17:19.602 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\hawk.spec
+21-12-2020 15:17:19.602 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\ssr-demo.spec
+21-12-2020 15:17:19.602 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\osprey.spec
+21-12-2020 15:17:19.602 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\fanuc.spec
+21-12-2020 15:17:19.602 [Gauge] [INFO] Initializing steps cache with 20 steps
+21-12-2020 15:17:19.603 [Gauge] [INFO] Starting language runner
+21-12-2020 15:17:19.829 [python] [ERROR] P
+21-12-2020 15:17:19.829 [python] [ERROR] ython was not found; run without a
+21-12-2020 15:17:19.829 [python] [ERROR] rgument
+21-12-2020 15:17:19.829 [python] [ERROR] s to
+21-12-2020 15:17:19.829 [python] [ERROR] insta
+21-12-2020 15:17:19.829 [python] [ERROR] ll fr
+21-12-2020 15:17:19.829 [python] [ERROR] om th
+21-12-2020 15:17:19.829 [python] [ERROR] e Mic
+21-12-2020 15:17:19.829 [python] [ERROR] roso
+21-12-2020 15:17:19.829 [python] [ERROR] ft Store,
+21-12-2020 15:17:19.829 [python] [ERROR] or di
+21-12-2020 15:17:19.829 [python] [ERROR] sable this shortcut fr
+21-12-2020 15:17:19.829 [python] [ERROR] om Settings > Manage App Exec
+21-12-2020 15:17:19.829 [python] [ERROR] ution Aliases.
+21-12-2020 15:17:20.017 [python] [ERROR] P
+21-12-2020 15:17:20.017 [python] [ERROR] ython was not found; run without arguments to inst
+21-12-2020 15:17:20.017 [python] [ERROR] a
+21-12-2020 15:17:20.017 [python] [ERROR] ll from the Microsoft Store, or disabl
+21-12-2020 15:17:20.017 [python] [ERROR] e this
+21-12-2020 15:17:20.017 [python] [ERROR] short
+21-12-2020 15:17:20.017 [python] [ERROR] cut from
+21-12-2020 15:17:20.017 [python] [ERROR] Set
+21-12-2020 15:17:20.017 [python] [ERROR] tings >
+21-12-2020 15:17:20.017 [python] [ERROR] Manag
+21-12-2020 15:17:20.017 [python] [ERROR] e App E
+21-12-2020 15:17:20.017 [python] [ERROR] xecu
+21-12-2020 15:17:20.017 [python] [ERROR] tion Al
+21-12-2020 15:17:20.017 [python] [ERROR] iase
+21-12-2020 15:17:20.017 [python] [ERROR] s.
+21-12-2020 15:17:20.029 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 15:17:20.030 [Gauge] [DEBUG] Gauge could not initialize. Install 'ms-python.python' extension for code insights. For more information see[Problems](command:workbench.actions.view.problems), check logs.[Troubleshooting](https://docs.gauge.org/troubleshooting.html?language=javascript&ide=vscode#gauge-could-not-initialize-for-more-information-see-problems)
+Some of the gauge lsp feature will not work as expected.
+21-12-2020 15:17:20.030 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+21-12-2020 15:17:20.032 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+21-12-2020 15:18:04.557 [Gauge] [DEBUG] request #8: textDocument/documentSymbol: parsing failed for c:\Work_stuff\gauge_framework_project\specs\eip-demo.spec. [[ParseError] c:\Work_stuff\gauge_framework_project\specs\eip-demo.spec:1 Spec does not have any elements => '']
+21-12-2020 15:24:07.321 [Gauge] [INFO] Connection closed
+21-12-2020 16:34:35.952 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs
+21-12-2020 16:34:35.953 [Gauge] [DEBUG] Found 10 files
+21-12-2020 16:34:35.954 [Gauge] [INFO] Watching directory: c:\Work_stuff\gauge_framework_project\specs\concepts
+21-12-2020 16:34:35.954 [Gauge] [DEBUG] Found 11 files
+21-12-2020 16:34:35.977 [Gauge] [INFO] Initializing concepts cache with 11 concepts
+21-12-2020 16:34:35.977 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\verify_pc_connection.cpt
+21-12-2020 16:34:35.977 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset_ssr.cpt
+21-12-2020 16:34:35.977 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_device.cpt
+21-12-2020 16:34:35.977 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\donwload_configuration_lookup.cpt
+21-12-2020 16:34:35.977 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\remove_configuration.cpt
+21-12-2020 16:34:35.978 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_safe_io.cpt
+21-12-2020 16:34:35.978 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\test_io.cpt
+21-12-2020 16:34:35.978 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_configuration.cpt
+21-12-2020 16:34:35.978 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\connect_safe_device.cpt
+21-12-2020 16:34:35.978 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\download_compressed_configuration.cpt
+21-12-2020 16:34:35.978 [Gauge] [DEBUG] Adding concepts from c:\Work_stuff\gauge_framework_project\specs\concepts\hard_reset.cpt
+21-12-2020 16:34:36.028 [Gauge] [INFO] Initializing specs cache with 9 specs
+21-12-2020 16:34:36.029 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\managed-switch.spec
+21-12-2020 16:34:36.029 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\osprey.spec
+21-12-2020 16:34:36.029 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\test.spec
+21-12-2020 16:34:36.029 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\opc-demo.spec
+21-12-2020 16:34:36.029 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\fanuc.spec
+21-12-2020 16:34:36.029 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\old.spec
+21-12-2020 16:34:36.029 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\hawk.spec
+21-12-2020 16:34:36.029 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\ssr-demo.spec
+21-12-2020 16:34:36.029 [Gauge] [DEBUG] Adding specs from c:\Work_stuff\gauge_framework_project\specs\eip-demo.spec
+21-12-2020 16:34:36.029 [Gauge] [INFO] Initializing steps cache with 20 steps
+21-12-2020 16:34:36.031 [Gauge] [INFO] Starting language runner
+21-12-2020 16:34:36.853 [python] [ERROR] P
+21-12-2020 16:34:36.853 [python] [ERROR] ython was not foun
+21-12-2020 16:34:36.862 [python] [ERROR] d
+21-12-2020 16:34:36.863 [python] [ERROR] ; run without arguments to install from th
+21-12-2020 16:34:36.863 [python] [ERROR] e
+21-12-2020 16:34:36.863 [python] [ERROR] Microsoft
+21-12-2020 16:34:36.864 [python] [ERROR] Store,
+21-12-2020 16:34:36.864 [python] [ERROR] or di
+21-12-2020 16:34:36.864 [python] [ERROR] sable
+21-12-2020 16:34:36.864 [python] [ERROR] this
+21-12-2020 16:34:36.864 [python] [ERROR] shortc
+21-12-2020 16:34:36.864 [python] [ERROR] ut fr
+21-12-2020 16:34:36.864 [python] [ERROR] om Set
+21-12-2020 16:34:36.864 [python] [ERROR] tings
+21-12-2020 16:34:36.864 [python] [ERROR] > Ma
+21-12-2020 16:34:36.864 [python] [ERROR] nage
+21-12-2020 16:34:36.864 [python] [ERROR] App E
+21-12-2020 16:34:36.864 [python] [ERROR] xecut
+21-12-2020 16:34:36.864 [python] [ERROR] ion A
+21-12-2020 16:34:36.864 [python] [ERROR] liase
+21-12-2020 16:34:36.864 [python] [ERROR] s.
+21-12-2020 16:34:37.471 [python] [ERROR] P
+21-12-2020 16:34:37.474 [python] [ERROR] ython was not found;
+21-12-2020 16:34:37.474 [python] [ERROR] run witho
+21-12-2020 16:34:37.474 [python] [ERROR] ut argum
+21-12-2020 16:34:37.474 [python] [ERROR] ents to i
+21-12-2020 16:34:37.474 [python] [ERROR] nstall
+21-12-2020 16:34:37.474 [python] [ERROR] from the
+21-12-2020 16:34:37.474 [python] [ERROR] Micros
+21-12-2020 16:34:37.474 [python] [ERROR] oft Stor
+21-12-2020 16:34:37.474 [python] [ERROR] e, or di
+21-12-2020 16:34:37.474 [python] [ERROR] sable th
+21-12-2020 16:34:37.474 [python] [ERROR] is shor
+21-12-2020 16:34:37.474 [python] [ERROR] tcut fro
+21-12-2020 16:34:37.474 [python] [ERROR] m Setti
+21-12-2020 16:34:37.474 [python] [ERROR] ngs > Ma
+21-12-2020 16:34:37.474 [python] [ERROR] nage Ap
+21-12-2020 16:34:37.474 [python] [ERROR] p Execut
+21-12-2020 16:34:37.474 [python] [ERROR] ion Alia
+21-12-2020 16:34:37.474 [python] [ERROR] ses.
+21-12-2020 16:34:37.495 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 9009
+21-12-2020 16:34:37.495 [Gauge] [DEBUG] Gauge could not initialize. Install 'ms-python.python' extension for code insights. For more information see[Problems](command:workbench.actions.view.problems), check logs.[Troubleshooting](https://docs.gauge.org/troubleshooting.html?language=javascript&ide=vscode#gauge-could-not-initialize-for-more-information-see-problems)
+Some of the gauge lsp feature will not work as expected.
+21-12-2020 16:34:37.495 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+21-12-2020 16:34:37.573 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
